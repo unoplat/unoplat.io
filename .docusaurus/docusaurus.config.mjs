@@ -84,7 +84,7 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/unoplat"
+              "href": "https://discord.gg/9W7ymcXmUP"
             }
           ]
         },
@@ -322,13 +322,23 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "installation",
+        "routeBasePath": "/installation",
+        "path": "./installation"
+      }
+    ],
+    null
+  ],
   "baseUrlIssueBanner": true,
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],

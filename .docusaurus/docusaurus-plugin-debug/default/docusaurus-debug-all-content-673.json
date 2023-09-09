@@ -167,6 +167,59 @@
           }
         }
       ]
+    },
+    "installation": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/installation",
+          "tagsPath": "/installation/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/installation",
+          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs-installation/current",
+          "docs": [
+            {
+              "unversionedId": "installation",
+              "id": "installation",
+              "title": "Installation Guide",
+              "description": "This is the installation page for Unoplatwrgeufg",
+              "source": "@site/installation/installation.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/installation/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Installation Guide",
+                "slug": "/",
+                "layout": "page",
+                "author": "Uttam Singh",
+                "date": "09/09/2023",
+                "Tags": "-Installtion",
+                "sidebar_position": 1
+              },
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "installation"
+              }
+            ]
+          }
+        }
+      ]
     }
   },
   "docusaurus-plugin-content-blog": {
@@ -200,6 +253,7 @@
   },
   "docusaurus-plugin-debug": {},
   "docusaurus-theme-classic": {},
+  "docusaurus-tailwindcss": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}
 }

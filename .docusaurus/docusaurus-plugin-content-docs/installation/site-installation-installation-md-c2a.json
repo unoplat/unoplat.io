@@ -1,0 +1,24 @@
+{
+  "unversionedId": "installation",
+  "id": "installation",
+  "title": "Installation Guide",
+  "description": "This is the installation page for Unoplatwrgeufg",
+  "source": "@site/installation/installation.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/installation/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Installation Guide",
+    "slug": "/",
+    "layout": "page",
+    "author": "Uttam Singh",
+    "date": "09/09/2023",
+    "Tags": "-Installtion",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar"
+}

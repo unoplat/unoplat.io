@@ -113,7 +113,7 @@ const config = {
               // },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/unoplat',
+                href: 'https://discord.gg/9W7ymcXmUP',
               }
               // {
               //   label: 'Twitter',
@@ -124,10 +124,6 @@ const config = {
           {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/unoplat',
@@ -142,29 +138,28 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-  //   plugins: [
-  //   [
-  //     "@docusaurus/plugin-content-blog",
-  //     {
-  //       id: "installation",
-  //       routeBasePath: "/installation",
-  //       path: "./installation",
-  //       blogTitle: "Installation",
-  //     }
-  //   ],
+    plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "installation",
+        routeBasePath: "/installation",
+        path: "./installation",
+      }
+    ],
   
-  // async function myPlugin(context,options){
-  //   return {
-  //        name: "docusaurus-tailwindcss",
-  //       configurePostCss(postcssOptions) {
-  //       // Appends TailwindCSS and AutoPrefixer.
-  //       postcssOptions.plugins.push(require("tailwindcss"));
-  //       postcssOptions.plugins.push(require("autoprefixer"));
-  //       return postcssOptions;
-  //       },
-  //     };
-  //   }
-  // ] ,
+  async function myPlugin(context,options){
+    return {
+         name: "docusaurus-tailwindcss",
+        configurePostCss(postcssOptions) {
+        // Appends TailwindCSS and AutoPrefixer.
+        postcssOptions.plugins.push(require("tailwindcss"));
+        postcssOptions.plugins.push(require("autoprefixer"));
+        return postcssOptions;
+        },
+      };
+    }
+  ] ,
 };
 
 module.exports = config;

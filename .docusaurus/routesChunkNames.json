@@ -72,6 +72,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-unoplat-network-and-policy-plane-intro-to-datainfra-1-c-3-26f"
   },
+  "/installation-f4a": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---installation-862-cf4"
+    },
+    "versionMetadata": "versionMetadata---installation-765-18b"
+  },
+  "/installation/-20d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-c-2-a-068"
+  },
   "/-9f4": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {

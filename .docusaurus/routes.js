@@ -73,6 +73,18 @@ export default [
     ]
   },
   {
+    path: '/installation',
+    component: ComponentCreator('/installation', 'f4a'),
+    routes: [
+      {
+        path: '/installation/',
+        component: ComponentCreator('/installation/', '20d'),
+        exact: true,
+        sidebar: "defaultSidebar"
+      }
+    ]
+  },
+  {
     path: '/',
     component: ComponentCreator('/', '9f4'),
     exact: true
