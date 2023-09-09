@@ -1,0 +1,205 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/uttamsingh/Documents/track3/unoplat.io/sidebars.js",
+          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/docs",
+          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "introduction",
+              "id": "introduction",
+              "title": "Hello Unoplat",
+              "description": "Unoplat",
+              "source": "@site/docs/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "Hello Unoplat",
+                "slug": "/",
+                "layout": "page",
+                "author": "Uttam Singh",
+                "date": "09/09/2023",
+                "Tags": "-Docs -Introduction",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "The Infrastructure Plane",
+                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/intro-to-datainfra",
+              "id": "unoplat-datainfra/intro-to-datainfra",
+              "title": "The Infrastructure Plane",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/infraplane.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/intro-to-datainfra",
+              "permalink": "/docs/unoplat-datainfra/intro-to-datainfra",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/infraplane.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro-to-datainfra",
+                "title": "The Infrastructure Plane"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hello Unoplat",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "The Network and Policy Plane",
+                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
+              }
+            },
+            {
+              "unversionedId": "unoplat-network-and-policy-plane/intro-to-consul",
+              "id": "unoplat-network-and-policy-plane/intro-to-consul",
+              "title": "Service Mesh with Consul",
+              "description": "",
+              "source": "@site/docs/unoplat-network-and-policy-plane/consul.md",
+              "sourceDirName": "unoplat-network-and-policy-plane",
+              "slug": "/unoplat-network-and-policy-plane/intro-to-consul",
+              "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-network-and-policy-plane/consul.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro-to-consul",
+                "title": "Service Mesh with Consul"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Network and Policy Plane",
+                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
+              }
+            },
+            {
+              "unversionedId": "unoplat-network-and-policy-plane/intro-to-datainfra",
+              "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
+              "title": "The Network and Policy Plane",
+              "description": "",
+              "source": "@site/docs/unoplat-network-and-policy-plane/network.md",
+              "sourceDirName": "unoplat-network-and-policy-plane",
+              "slug": "/unoplat-network-and-policy-plane/intro-to-datainfra",
+              "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-network-and-policy-plane/network.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "id": "intro-to-datainfra",
+                "title": "The Network and Policy Plane",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Infrastructure Plane",
+                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+              },
+              "next": {
+                "title": "Service Mesh with Consul",
+                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-consul"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "introduction"
+              },
+              {
+                "type": "category",
+                "label": "unoplat-datainfra",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/intro-to-datainfra"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "unoplat-network-and-policy-plane",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "unoplat-network-and-policy-plane/intro-to-datainfra"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-network-and-policy-plane/intro-to-consul"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "unoplat-datainfra/intro-to-datainfra",
+  "id": "unoplat-datainfra/intro-to-datainfra",
+  "title": "The Infrastructure Plane",
+  "description": "",
+  "source": "@site/docs/unoplat-datainfra/infraplane.md",
+  "sourceDirName": "unoplat-datainfra",
+  "slug": "/unoplat-datainfra/intro-to-datainfra",
+  "permalink": "/docs/unoplat-datainfra/intro-to-datainfra",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/infraplane.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro-to-datainfra",
+    "title": "The Infrastructure Plane"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello Unoplat",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "The Network and Policy Plane",
+    "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
+  }
+}

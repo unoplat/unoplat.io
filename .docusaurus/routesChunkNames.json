@@ -1,0 +1,82 @@
+{
+  "/__docusaurus/debug-888": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/__docusaurus/debug/config-fa1": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/__docusaurus/debug/content-4bb": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-586": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/__docusaurus/debug/metadata-195": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/__docusaurus/debug/registry-58a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/__docusaurus/debug/routes-7c0": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-95-b-fed"
+    }
+  },
+  "/markdown-page-805": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-895-cf9"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-719": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docsf-42-8b9"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-a-09-789"
+  },
+  "/docs/unoplat-datainfra/intro-to-datainfra-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-intro-to-datainfrad-41-487"
+  },
+  "/docs/unoplat-network-and-policy-plane/intro-to-consul-90c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-consulaf-1-6db"
+  },
+  "/docs/unoplat-network-and-policy-plane/intro-to-datainfra-216": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-datainfra-1-c-3-26f"
+  },
+  "/-9f4": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-895-cf9"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

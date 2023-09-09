@@ -1,0 +1,80 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Hello Unoplat",
+        "href": "/docs/",
+        "docId": "introduction"
+      },
+      {
+        "type": "category",
+        "label": "unoplat-datainfra",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Infrastructure Plane",
+            "href": "/docs/unoplat-datainfra/intro-to-datainfra",
+            "docId": "unoplat-datainfra/intro-to-datainfra"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-network-and-policy-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Network and Policy Plane",
+            "href": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
+            "docId": "unoplat-network-and-policy-plane/intro-to-datainfra"
+          },
+          {
+            "type": "link",
+            "label": "Service Mesh with Consul",
+            "href": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+            "docId": "unoplat-network-and-policy-plane/intro-to-consul"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "introduction": {
+      "id": "introduction",
+      "title": "Hello Unoplat",
+      "description": "Unoplat",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/intro-to-datainfra": {
+      "id": "unoplat-datainfra/intro-to-datainfra",
+      "title": "The Infrastructure Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-network-and-policy-plane/intro-to-consul": {
+      "id": "unoplat-network-and-policy-plane/intro-to-consul",
+      "title": "Service Mesh with Consul",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-network-and-policy-plane/intro-to-datainfra": {
+      "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
+      "title": "The Network and Policy Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "introduction",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/intro-to-datainfra",
+              "path": "/docs/unoplat-datainfra/intro-to-datainfra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-network-and-policy-plane/intro-to-consul",
+              "path": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
+              "path": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
