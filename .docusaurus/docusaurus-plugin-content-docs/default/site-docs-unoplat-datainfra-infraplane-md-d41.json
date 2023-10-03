@@ -2,7 +2,7 @@
   "unversionedId": "unoplat-datainfra/intro-to-datainfra",
   "id": "unoplat-datainfra/intro-to-datainfra",
   "title": "The Infrastructure Plane",
-  "description": "",
+  "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana etc.",
   "source": "@site/docs/unoplat-datainfra/infraplane.md",
   "sourceDirName": "unoplat-datainfra",
   "slug": "/unoplat-datainfra/intro-to-datainfra",
@@ -21,7 +21,7 @@
     "permalink": "/docs/"
   },
   "next": {
-    "title": "The Network and Policy Plane",
-    "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
+    "title": "The Developer Plane",
+    "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
   }
 }

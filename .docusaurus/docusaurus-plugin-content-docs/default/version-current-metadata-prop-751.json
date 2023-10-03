@@ -31,6 +31,34 @@
       },
       {
         "type": "category",
+        "label": "unoplat-dev-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Developer Plane",
+            "href": "/docs/unoplat-dev-plane/intro-to-developer-plane",
+            "docId": "unoplat-dev-plane/intro-to-developer-plane"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-monitoring-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Monitoring Plane",
+            "href": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+            "docId": "unoplat-monitoring-plane/intro-to-monitoring-and-observability"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "unoplat-network-and-policy-plane",
         "collapsible": true,
         "collapsed": true,
@@ -61,7 +89,19 @@
     "unoplat-datainfra/intro-to-datainfra": {
       "id": "unoplat-datainfra/intro-to-datainfra",
       "title": "The Infrastructure Plane",
+      "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana etc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-dev-plane/intro-to-developer-plane": {
+      "id": "unoplat-dev-plane/intro-to-developer-plane",
+      "title": "The Developer Plane",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-monitoring-plane/intro-to-monitoring-and-observability": {
+      "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+      "title": "The Monitoring Plane",
+      "description": "Application Performance Monitoring is key to any data oriented organization to keep a tap on application health and performance.",
       "sidebar": "tutorialSidebar"
     },
     "unoplat-network-and-policy-plane/intro-to-consul": {

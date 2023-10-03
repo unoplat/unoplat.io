@@ -44,7 +44,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '719'),
+    component: ComponentCreator('/docs', '322'),
     routes: [
       {
         path: '/docs/',
@@ -55,6 +55,18 @@ export default [
       {
         path: '/docs/unoplat-datainfra/intro-to-datainfra',
         component: ComponentCreator('/docs/unoplat-datainfra/intro-to-datainfra', '798'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-dev-plane/intro-to-developer-plane',
+        component: ComponentCreator('/docs/unoplat-dev-plane/intro-to-developer-plane', '723'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability',
+        component: ComponentCreator('/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability', 'd4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -79,6 +91,18 @@ export default [
       {
         path: '/installation/',
         component: ComponentCreator('/installation/', '20d'),
+        exact: true,
+        sidebar: "defaultSidebar"
+      }
+    ]
+  },
+  {
+    path: '/playground',
+    component: ComponentCreator('/playground', 'b9a'),
+    routes: [
+      {
+        path: '/playground/',
+        component: ComponentCreator('/playground/', '193'),
         exact: true,
         sidebar: "defaultSidebar"
       }

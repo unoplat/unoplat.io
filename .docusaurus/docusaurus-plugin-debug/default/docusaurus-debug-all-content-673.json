@@ -52,7 +52,7 @@
               "unversionedId": "unoplat-datainfra/intro-to-datainfra",
               "id": "unoplat-datainfra/intro-to-datainfra",
               "title": "The Infrastructure Plane",
-              "description": "",
+              "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana etc.",
               "source": "@site/docs/unoplat-datainfra/infraplane.md",
               "sourceDirName": "unoplat-datainfra",
               "slug": "/unoplat-datainfra/intro-to-datainfra",
@@ -69,6 +69,60 @@
               "previous": {
                 "title": "Hello Unoplat",
                 "permalink": "/docs/"
+              },
+              "next": {
+                "title": "The Developer Plane",
+                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
+              }
+            },
+            {
+              "unversionedId": "unoplat-dev-plane/intro-to-developer-plane",
+              "id": "unoplat-dev-plane/intro-to-developer-plane",
+              "title": "The Developer Plane",
+              "description": "",
+              "source": "@site/docs/unoplat-dev-plane/developerPlane.md",
+              "sourceDirName": "unoplat-dev-plane",
+              "slug": "/unoplat-dev-plane/intro-to-developer-plane",
+              "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-dev-plane/developerPlane.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro-to-developer-plane",
+                "title": "The Developer Plane"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Infrastructure Plane",
+                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+              },
+              "next": {
+                "title": "The Monitoring Plane",
+                "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
+              }
+            },
+            {
+              "unversionedId": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "title": "The Monitoring Plane",
+              "description": "Application Performance Monitoring is key to any data oriented organization to keep a tap on application health and performance.",
+              "source": "@site/docs/unoplat-monitoring-plane/monitoring.md",
+              "sourceDirName": "unoplat-monitoring-plane",
+              "slug": "/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-monitoring-plane/monitoring.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "intro-to-monitoring-and-observability",
+                "title": "The Monitoring Plane"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Developer Plane",
+                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
               },
               "next": {
                 "title": "The Network and Policy Plane",
@@ -119,8 +173,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "The Infrastructure Plane",
-                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+                "title": "The Monitoring Plane",
+                "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
               },
               "next": {
                 "title": "Service Mesh with Consul",
@@ -144,6 +198,30 @@
                   {
                     "type": "doc",
                     "id": "unoplat-datainfra/intro-to-datainfra"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "unoplat-dev-plane",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "unoplat-dev-plane/intro-to-developer-plane"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "unoplat-monitoring-plane",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability"
                   }
                 ]
               },
@@ -215,6 +293,54 @@
               {
                 "type": "doc",
                 "id": "installation"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "playground": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/playground",
+          "tagsPath": "/playground/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/playground",
+          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs-playground/current",
+          "docs": [
+            {
+              "unversionedId": "playground",
+              "id": "playground",
+              "title": "Playground",
+              "description": "",
+              "source": "@site/playground/introduction.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/playground/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "playground",
+                "title": "Playground",
+                "slug": "/"
+              },
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "defaultSidebar": [
+              {
+                "type": "doc",
+                "id": "playground"
               }
             ]
           }

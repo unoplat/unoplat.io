@@ -71,6 +71,13 @@ const config = {
           src: 'img/unoplat.svg',
         },
         items: [
+          
+          {
+            position: 'left',
+            label: 'Docs',
+            to: '/docs/',
+            activeBasePath: "docs",
+          },
           {
             position: 'left',
             label: 'Install',
@@ -79,11 +86,10 @@ const config = {
           },
           {
             position: 'left',
-            label: 'Docs',
-            to: '/docs/',
-            activeBasePath: "docs",
+            label: 'Playground',
+            to: '/playground/',
+            activeBasePath: "playground",
           },
-          
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/unoplat',
@@ -147,6 +153,14 @@ const config = {
         path: "./installation",
       }
     ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "playground",
+        routeBasePath: "/playground",
+        path: "./playground",
+      }
+    ],
   
   async function myPlugin(context,options){
     return {
@@ -158,7 +172,7 @@ const config = {
         return postcssOptions;
         },
       };
-    }
+    },
   ] ,
 };
 

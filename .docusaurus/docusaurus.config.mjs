@@ -49,15 +49,21 @@ export default {
       "items": [
         {
           "position": "left",
+          "label": "Docs",
+          "to": "/docs/",
+          "activeBasePath": "docs"
+        },
+        {
+          "position": "left",
           "label": "Install",
           "to": "installation/",
           "activeBasePath": "install"
         },
         {
           "position": "left",
-          "label": "Docs",
-          "to": "/docs/",
-          "activeBasePath": "docs"
+          "label": "Playground",
+          "to": "/playground/",
+          "activeBasePath": "playground"
         },
         {
           "href": "https://github.com/unoplat",
@@ -329,6 +335,14 @@ export default {
         "id": "installation",
         "routeBasePath": "/installation",
         "path": "./installation"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "playground",
+        "routeBasePath": "/playground",
+        "path": "./playground"
       }
     ],
     null

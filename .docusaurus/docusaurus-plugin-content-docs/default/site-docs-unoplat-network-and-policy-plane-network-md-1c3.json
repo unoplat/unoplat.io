@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Infrastructure Plane",
-    "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+    "title": "The Monitoring Plane",
+    "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
   },
   "next": {
     "title": "Service Mesh with Consul",
