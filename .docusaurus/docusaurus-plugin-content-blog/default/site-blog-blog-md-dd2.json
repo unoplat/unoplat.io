@@ -1,0 +1,18 @@
+{
+  "permalink": "/blog/",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/blog.md",
+  "source": "@site/blog/blog.md",
+  "title": "blog",
+  "description": "",
+  "date": "2023-10-03T20:06:45.000Z",
+  "formattedDate": "October 3, 2023",
+  "tags": [],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "id": "blog",
+    "title": "blog",
+    "slug": "/"
+  }
+}

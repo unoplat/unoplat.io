@@ -90,7 +90,6 @@ const config = {
             to: '/playground/',
             activeBasePath: "playground",
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/unoplat',
             label: 'GitHub',
