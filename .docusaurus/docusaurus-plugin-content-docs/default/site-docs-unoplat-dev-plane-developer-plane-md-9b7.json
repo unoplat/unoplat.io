@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Infrastructure Plane",
-    "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+    "title": "Distributed Load Testing with k6 operator",
+    "permalink": "/docs/unoplat-datainfra/datainfra-k6"
   },
   "next": {
     "title": "The Monitoring Plane",

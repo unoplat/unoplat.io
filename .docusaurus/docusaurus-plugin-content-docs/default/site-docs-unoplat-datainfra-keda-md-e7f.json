@@ -1,0 +1,29 @@
+{
+  "unversionedId": "unoplat-datainfra/datainfra-keda",
+  "id": "unoplat-datainfra/datainfra-keda",
+  "title": "Reactive Scaling with KEDA",
+  "description": "What works at scale may be different from scaling what works.",
+  "source": "@site/docs/unoplat-datainfra/keda.md",
+  "sourceDirName": "unoplat-datainfra",
+  "slug": "/unoplat-datainfra/datainfra-keda",
+  "permalink": "/docs/unoplat-datainfra/datainfra-keda",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/keda.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "datainfra-keda",
+    "title": "Reactive Scaling with KEDA",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Streaming Infra - Flink k8s operator",
+    "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+  },
+  "next": {
+    "title": "Sealed Secrets with Bitnami",
+    "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets"
+  }
+}

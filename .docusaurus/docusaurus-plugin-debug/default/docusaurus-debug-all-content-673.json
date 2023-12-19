@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/uttamsingh/Documents/track3/unoplat.io/sidebars.js",
-          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/docs",
-          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/uttamsingh/Desktop/learnings/unoplat.io/sidebars.js",
+          "contentPath": "/Users/uttamsingh/Desktop/learnings/unoplat.io/docs",
+          "contentPathLocalized": "/Users/uttamsingh/Desktop/learnings/unoplat.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "introduction",
@@ -49,10 +49,184 @@
               }
             },
             {
+              "unversionedId": "unoplat-datainfra/datainfra-appreloader",
+              "id": "unoplat-datainfra/datainfra-appreloader",
+              "title": "App Management with App Reloader",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/appreloader.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-appreloader",
+              "permalink": "/docs/unoplat-datainfra/datainfra-appreloader",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/appreloader.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "id": "datainfra-appreloader",
+                "title": "App Management with App Reloader",
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Sealed Secrets with Bitnami",
+                "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets"
+              },
+              "next": {
+                "title": "Distributed Load Testing with k6 operator",
+                "permalink": "/docs/unoplat-datainfra/datainfra-k6"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/datainfra-flinkoperator",
+              "id": "unoplat-datainfra/datainfra-flinkoperator",
+              "title": "The Streaming Infra - Flink k8s operator",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/flinkoperator.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-flinkoperator",
+              "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/flinkoperator.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "datainfra-flinkoperator",
+                "title": "The Streaming Infra - Flink k8s operator",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Open Source Container Registry - Harbor",
+                "permalink": "/docs/unoplat-datainfra/datainfra-harbor"
+              },
+              "next": {
+                "title": "Reactive Scaling with KEDA",
+                "permalink": "/docs/unoplat-datainfra/datainfra-keda"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/datainfra-harbor",
+              "id": "unoplat-datainfra/datainfra-harbor",
+              "title": "The Open Source Container Registry - Harbor",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/harbor.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-harbor",
+              "permalink": "/docs/unoplat-datainfra/datainfra-harbor",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/harbor.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "id": "datainfra-harbor",
+                "title": "The Open Source Container Registry - Harbor",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Infrastructure Plane",
+                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+              },
+              "next": {
+                "title": "The Streaming Infra - Flink k8s operator",
+                "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/datainfra-k6",
+              "id": "unoplat-datainfra/datainfra-k6",
+              "title": "Distributed Load Testing with k6 operator",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/k6operator.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-k6",
+              "permalink": "/docs/unoplat-datainfra/datainfra-k6",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/k6operator.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "id": "datainfra-k6",
+                "title": "Distributed Load Testing with k6 operator",
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "App Management with App Reloader",
+                "permalink": "/docs/unoplat-datainfra/datainfra-appreloader"
+              },
+              "next": {
+                "title": "The Developer Plane",
+                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/datainfra-keda",
+              "id": "unoplat-datainfra/datainfra-keda",
+              "title": "Reactive Scaling with KEDA",
+              "description": "What works at scale may be different from scaling what works.",
+              "source": "@site/docs/unoplat-datainfra/keda.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-keda",
+              "permalink": "/docs/unoplat-datainfra/datainfra-keda",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/keda.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "id": "datainfra-keda",
+                "title": "Reactive Scaling with KEDA",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "The Streaming Infra - Flink k8s operator",
+                "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+              },
+              "next": {
+                "title": "Sealed Secrets with Bitnami",
+                "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets"
+              }
+            },
+            {
+              "unversionedId": "unoplat-datainfra/datainfra-sealedsecrets",
+              "id": "unoplat-datainfra/datainfra-sealedsecrets",
+              "title": "Sealed Secrets with Bitnami",
+              "description": "",
+              "source": "@site/docs/unoplat-datainfra/sealedsecret.md",
+              "sourceDirName": "unoplat-datainfra",
+              "slug": "/unoplat-datainfra/datainfra-sealedsecrets",
+              "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/sealedsecret.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "id": "datainfra-sealedsecrets",
+                "title": "Sealed Secrets with Bitnami",
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reactive Scaling with KEDA",
+                "permalink": "/docs/unoplat-datainfra/datainfra-keda"
+              },
+              "next": {
+                "title": "App Management with App Reloader",
+                "permalink": "/docs/unoplat-datainfra/datainfra-appreloader"
+              }
+            },
+            {
               "unversionedId": "unoplat-datainfra/intro-to-datainfra",
               "id": "unoplat-datainfra/intro-to-datainfra",
               "title": "The Infrastructure Plane",
-              "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana etc.",
+              "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana, k6 etc.",
               "source": "@site/docs/unoplat-datainfra/infraplane.md",
               "sourceDirName": "unoplat-datainfra",
               "slug": "/unoplat-datainfra/intro-to-datainfra",
@@ -61,9 +235,11 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/infraplane.md",
               "tags": [],
               "version": "current",
+              "sidebarPosition": 1,
               "frontMatter": {
                 "id": "intro-to-datainfra",
-                "title": "The Infrastructure Plane"
+                "title": "The Infrastructure Plane",
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -71,8 +247,8 @@
                 "permalink": "/docs/"
               },
               "next": {
-                "title": "The Developer Plane",
-                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
+                "title": "The Open Source Container Registry - Harbor",
+                "permalink": "/docs/unoplat-datainfra/datainfra-harbor"
               }
             },
             {
@@ -94,8 +270,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "The Infrastructure Plane",
-                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+                "title": "Distributed Load Testing with k6 operator",
+                "permalink": "/docs/unoplat-datainfra/datainfra-k6"
               },
               "next": {
                 "title": "The Monitoring Plane",
@@ -198,6 +374,30 @@
                   {
                     "type": "doc",
                     "id": "unoplat-datainfra/intro-to-datainfra"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-harbor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-flinkoperator"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-keda"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-sealedsecrets"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-appreloader"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "unoplat-datainfra/datainfra-k6"
                   }
                 ]
               },
@@ -259,8 +459,8 @@
           "tagsPath": "/installation/tags",
           "isLast": true,
           "routePriority": -1,
-          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/installation",
-          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs-installation/current",
+          "contentPath": "/Users/uttamsingh/Desktop/learnings/unoplat.io/installation",
+          "contentPathLocalized": "/Users/uttamsingh/Desktop/learnings/unoplat.io/i18n/en/docusaurus-plugin-content-docs-installation/current",
           "docs": [
             {
               "unversionedId": "installation",
@@ -312,8 +512,8 @@
           "tagsPath": "/playground/tags",
           "isLast": true,
           "routePriority": -1,
-          "contentPath": "/Users/uttamsingh/Documents/track3/unoplat.io/playground",
-          "contentPathLocalized": "/Users/uttamsingh/Documents/track3/unoplat.io/i18n/en/docusaurus-plugin-content-docs-playground/current",
+          "contentPath": "/Users/uttamsingh/Desktop/learnings/unoplat.io/playground",
+          "contentPathLocalized": "/Users/uttamsingh/Desktop/learnings/unoplat.io/i18n/en/docusaurus-plugin-content-docs-playground/current",
           "docs": [
             {
               "unversionedId": "playground",

@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/uttamsingh/Documents/track3/unoplat.io/sidebars.js",
+          "sidebarPath": "/Users/uttamsingh/Desktop/learnings/unoplat.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +34,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/Users/uttamsingh/Documents/track3/unoplat.io/src/css/custom.css"
+          "customCss": "/Users/uttamsingh/Desktop/learnings/unoplat.io/src/css/custom.css"
         }
       }
     ]

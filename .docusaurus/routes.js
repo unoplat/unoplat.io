@@ -4,51 +4,87 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '888'),
+    component: ComponentCreator('/__docusaurus/debug', '059'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'fa1'),
+    component: ComponentCreator('/__docusaurus/debug/config', '1a4'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '4bb'),
+    component: ComponentCreator('/__docusaurus/debug/content', '6cc'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '586'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '9f2'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '195'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '540'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '58a'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '814'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '7c0'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '677'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '805'),
+    component: ComponentCreator('/markdown-page', 'd2a'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '322'),
+    component: ComponentCreator('/docs', '1da'),
     routes: [
       {
         path: '/docs/',
         component: ComponentCreator('/docs/', '793'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-appreloader',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-appreloader', '913'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-flinkoperator',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-flinkoperator', 'eae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-harbor',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-harbor', 'a5b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-k6',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-k6', 'a8f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-keda',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-keda', '569'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/unoplat-datainfra/datainfra-sealedsecrets',
+        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-sealedsecrets', 'e2c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -86,7 +122,7 @@ export default [
   },
   {
     path: '/installation',
-    component: ComponentCreator('/installation', 'f4a'),
+    component: ComponentCreator('/installation', '1ed'),
     routes: [
       {
         path: '/installation/',
@@ -98,7 +134,7 @@ export default [
   },
   {
     path: '/playground',
-    component: ComponentCreator('/playground', 'b9a'),
+    component: ComponentCreator('/playground', '6f7'),
     routes: [
       {
         path: '/playground/',
@@ -110,7 +146,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '9f4'),
+    component: ComponentCreator('/', '8f2'),
     exact: true
   },
   {

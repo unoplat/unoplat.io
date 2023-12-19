@@ -26,6 +26,42 @@
             "label": "The Infrastructure Plane",
             "href": "/docs/unoplat-datainfra/intro-to-datainfra",
             "docId": "unoplat-datainfra/intro-to-datainfra"
+          },
+          {
+            "type": "link",
+            "label": "The Open Source Container Registry - Harbor",
+            "href": "/docs/unoplat-datainfra/datainfra-harbor",
+            "docId": "unoplat-datainfra/datainfra-harbor"
+          },
+          {
+            "type": "link",
+            "label": "The Streaming Infra - Flink k8s operator",
+            "href": "/docs/unoplat-datainfra/datainfra-flinkoperator",
+            "docId": "unoplat-datainfra/datainfra-flinkoperator"
+          },
+          {
+            "type": "link",
+            "label": "Reactive Scaling with KEDA",
+            "href": "/docs/unoplat-datainfra/datainfra-keda",
+            "docId": "unoplat-datainfra/datainfra-keda"
+          },
+          {
+            "type": "link",
+            "label": "Sealed Secrets with Bitnami",
+            "href": "/docs/unoplat-datainfra/datainfra-sealedsecrets",
+            "docId": "unoplat-datainfra/datainfra-sealedsecrets"
+          },
+          {
+            "type": "link",
+            "label": "App Management with App Reloader",
+            "href": "/docs/unoplat-datainfra/datainfra-appreloader",
+            "docId": "unoplat-datainfra/datainfra-appreloader"
+          },
+          {
+            "type": "link",
+            "label": "Distributed Load Testing with k6 operator",
+            "href": "/docs/unoplat-datainfra/datainfra-k6",
+            "docId": "unoplat-datainfra/datainfra-k6"
           }
         ]
       },
@@ -86,10 +122,46 @@
       "description": "Unoplat",
       "sidebar": "tutorialSidebar"
     },
+    "unoplat-datainfra/datainfra-appreloader": {
+      "id": "unoplat-datainfra/datainfra-appreloader",
+      "title": "App Management with App Reloader",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-flinkoperator": {
+      "id": "unoplat-datainfra/datainfra-flinkoperator",
+      "title": "The Streaming Infra - Flink k8s operator",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-harbor": {
+      "id": "unoplat-datainfra/datainfra-harbor",
+      "title": "The Open Source Container Registry - Harbor",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-k6": {
+      "id": "unoplat-datainfra/datainfra-k6",
+      "title": "Distributed Load Testing with k6 operator",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-keda": {
+      "id": "unoplat-datainfra/datainfra-keda",
+      "title": "Reactive Scaling with KEDA",
+      "description": "What works at scale may be different from scaling what works.",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-sealedsecrets": {
+      "id": "unoplat-datainfra/datainfra-sealedsecrets",
+      "title": "Sealed Secrets with Bitnami",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "unoplat-datainfra/intro-to-datainfra": {
       "id": "unoplat-datainfra/intro-to-datainfra",
       "title": "The Infrastructure Plane",
-      "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana etc.",
+      "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana, k6 etc.",
       "sidebar": "tutorialSidebar"
     },
     "unoplat-dev-plane/intro-to-developer-plane": {
