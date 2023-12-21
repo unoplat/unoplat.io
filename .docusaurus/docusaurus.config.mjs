@@ -61,7 +61,7 @@ export default {
         },
         {
           "position": "left",
-          "label": "Playground",
+          "label": "Demo Videos",
           "to": "/playground/",
           "activeBasePath": "playground"
         },

@@ -86,7 +86,7 @@ const config = {
           },
           {
             position: 'left',
-            label: 'Playground',
+            label: 'Demo Videos',
             to: '/playground/',
             activeBasePath: "playground",
           },

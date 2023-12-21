@@ -4,20 +4,21 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import ContributorCard from '@site/src/components/Contributors/contributors';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
     return(
-       //  <header className={clsx('hero hero--primary', styles.heroBanner)}>
+        <header className={clsx('hero hero--primary', styles.heroBanner)}>
           <div className={clsx('hero hero-image', styles.heroImage)}>
-            < img src={require("/img/1271664.png").default} />
+            < img src={require("/img/unoplat.png").default} />
           </div>
-           
-       //  </header>
+        </header>
     )
 }
+
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
@@ -28,6 +29,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <ContributorCard />
       </main>
     </Layout>
   );
