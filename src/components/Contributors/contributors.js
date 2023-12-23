@@ -12,7 +12,7 @@ const Contributors=[
         title: 'Vipin Shreyas Kumar',
         Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
       },
-];
+   ];
 
 function Contributor({Svg, title}) {
   return (

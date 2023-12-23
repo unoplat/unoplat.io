@@ -63,37 +63,38 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/unoplat.svg',
+      image: 'img/website-logo.png',
       navbar: {
         //title: 'UnoPlat',
         logo: {
           alt: 'UnoPlat',
-          src: 'img/unoplat.svg',
+          src: 'img/website-logo.png',
         },
         items: [
           
           {
-            position: 'left',
-            label: 'Docs',
+            position: 'right',
+            label: 'Documentation',
             to: '/docs/',
             activeBasePath: "docs",
           },
           {
-            position: 'left',
+            position: 'right',
             label: 'Install',
             to: 'installation/',
             activeBasePath: "install",
           },
-          {
-            position: 'left',
-            label: 'Demo Videos',
-            to: '/playground/',
-            activeBasePath: "playground",
-          },
+          // {
+          //   position: 'left',
+          //   label: 'Demo Videos',
+          //   to: '/playground/',
+          //   activeBasePath: "playground",
+          // },
           {
             href: 'https://github.com/unoplat',
-            label: 'GitHub',
             position: 'right',
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },

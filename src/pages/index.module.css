@@ -3,36 +3,57 @@
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-@media screen {
-  .heroImage{
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    left: 25%;
-    right:25%;
-    justify-content: center;
-  }
-
-  
-}
-
-
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
-  display: flex;
+ .headerContainer {
+  align-self: center;
   align-items: center;
-  justify-content: center;
+  text-align: center;
+ }
+ .headerMain {
+  text-align: center;
+  align-items: center;
+
+}
+
+/* html[data-theme='dark'] .headerMain::before {
+  background-color: black;
+  text-align: center;
+  align-items: center;
+} */
+
+.headerTitle {
+  margin-bottom: 0%;
+  font-size: 72px;
+  font-family: "Arial";
+}
+
+.headerTagLine {
+  font-size: 42px;
+  font-family: Arial;
+  padding-bottom: 50px;
+}
+.buttons {
+  align-items: center;
+  text-align: center;
+  padding-bottom: 2%;
+  gap: 40px;
+ 
+
+}
+
+.docButton {
+  border-color: black;
+  font-size: medium;
+  font-family: Arial;
+  margin-right: 10px;
+}
+
+.gitButton {
+  border-color: black;
+  font-size: medium;
+}
+.gitIcon {
+  align-items: center;
+  height: 15px;
+  width: 15px;
+  margin: 0%;
 }

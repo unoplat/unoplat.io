@@ -40,35 +40,30 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/unoplat.svg",
+    "image": "img/website-logo.png",
     "navbar": {
       "logo": {
         "alt": "UnoPlat",
-        "src": "img/unoplat.svg"
+        "src": "img/website-logo.png"
       },
       "items": [
         {
-          "position": "left",
-          "label": "Docs",
+          "position": "right",
+          "label": "Documentation",
           "to": "/docs/",
           "activeBasePath": "docs"
         },
         {
-          "position": "left",
+          "position": "right",
           "label": "Install",
           "to": "installation/",
           "activeBasePath": "install"
         },
         {
-          "position": "left",
-          "label": "Demo Videos",
-          "to": "/playground/",
-          "activeBasePath": "playground"
-        },
-        {
           "href": "https://github.com/unoplat",
-          "label": "GitHub",
-          "position": "right"
+          "position": "right",
+          "className": "header-github-link",
+          "aria-label": "GitHub repository"
         }
       ],
       "hideOnScroll": false
