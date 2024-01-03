@@ -1,0 +1,28 @@
+{
+  "pluginId": "aboutus",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "defaultSidebar": [
+      {
+        "type": "link",
+        "label": "About Us",
+        "href": "/aboutus/",
+        "docId": "aboutus"
+      }
+    ]
+  },
+  "docs": {
+    "aboutus": {
+      "id": "aboutus",
+      "title": "About Us",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    }
+  }
+}

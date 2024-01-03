@@ -16,14 +16,13 @@
     "title": "Hello Unoplat",
     "slug": "/",
     "layout": "page",
-    "author": "Uttam Singh",
     "date": "09/09/2023",
     "Tags": "-Docs -Introduction",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "The Infrastructure Plane",
-    "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+    "title": "Data Mesh Plane",
+    "permalink": "/docs/data-mesh-plane/introduction"
   }
 }

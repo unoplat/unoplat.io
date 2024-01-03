@@ -3,9 +3,10 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import ContributorCard from '@site/src/components/Contributors/contributors';
 import styles from './index.module.css';
+import TheProblemCard from '../components/TheProblem';
+import Hexagon from '../components/UnoplatFeatures';
+import HowItWorks from '../components/howItWorks';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -30,8 +31,6 @@ function HomepageHeader() {
                         <img className={clsx("gitIcon",styles.gitIcon)} src={"/img/github.png"} alt="Star On GitHub"></img>
                         Star On GitHub
                         </span>
-                       
-
                     </Link>
       </div>
         </header>
@@ -44,11 +43,12 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
-        <ContributorCard />
+      <TheProblemCard/>
+      <Hexagon/>
+      <HowItWorks/>
       </main>
     </Layout>
   );

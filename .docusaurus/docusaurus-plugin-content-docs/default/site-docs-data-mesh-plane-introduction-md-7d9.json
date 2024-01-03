@@ -1,0 +1,30 @@
+{
+  "unversionedId": "data-mesh-plane/introduction",
+  "id": "data-mesh-plane/introduction",
+  "title": "Data Mesh Plane",
+  "description": "",
+  "source": "@site/docs/data-mesh-plane/introduction.md",
+  "sourceDirName": "data-mesh-plane",
+  "slug": "/data-mesh-plane/introduction",
+  "permalink": "/docs/data-mesh-plane/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data-mesh-plane/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Data Mesh Plane",
+    "layout": "page",
+    "Tags": "-Docs -Data Mesh",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello Unoplat",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Storage and Streaming System",
+    "permalink": "/docs/data-streaming-plane/introduction"
+  }
+}

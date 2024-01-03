@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hello Unoplat",
-    "permalink": "/docs/"
+    "title": "Super Charged App Templates",
+    "permalink": "/docs/super-charged-app-templates/introduction"
   },
   "next": {
     "title": "The Open Source Container Registry - Harbor",

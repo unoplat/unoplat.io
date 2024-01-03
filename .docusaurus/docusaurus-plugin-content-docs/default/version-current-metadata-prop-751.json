@@ -17,6 +17,118 @@
       },
       {
         "type": "category",
+        "label": "data-mesh-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Data Mesh Plane",
+            "href": "/docs/data-mesh-plane/introduction",
+            "docId": "data-mesh-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "data-streaming-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Storage and Streaming System",
+            "href": "/docs/data-streaming-plane/introduction",
+            "docId": "data-streaming-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "developer-experience-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Developer Experience Plane",
+            "href": "/docs/developer-experience-plane/introduction",
+            "docId": "developer-experience-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "generative-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Generative Plane",
+            "href": "/docs/generative-plane/introduction",
+            "docId": "generative-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "knowledge-engineering-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Knowledge Engineering Plane",
+            "href": "/docs/knowledge-engineering-plane/introduction",
+            "docId": "knowledge-engineering-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "management-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Management Plane",
+            "href": "/docs/management-plane/introduction",
+            "docId": "management-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "platform-as-a-service",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Platform As a Service",
+            "href": "/docs/platform-as-a-service/introduction",
+            "docId": "platform-as-a-service/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "super-charged-app-templates",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Super Charged App Templates",
+            "href": "/docs/super-charged-app-templates/introduction",
+            "docId": "super-charged-app-templates/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
         "label": "unoplat-datainfra",
         "collapsible": true,
         "collapsed": true,
@@ -116,10 +228,58 @@
     ]
   },
   "docs": {
+    "data-mesh-plane/introduction": {
+      "id": "data-mesh-plane/introduction",
+      "title": "Data Mesh Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-streaming-plane/introduction": {
+      "id": "data-streaming-plane/introduction",
+      "title": "Storage and Streaming System",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "developer-experience-plane/introduction": {
+      "id": "developer-experience-plane/introduction",
+      "title": "Developer Experience Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "generative-plane/introduction": {
+      "id": "generative-plane/introduction",
+      "title": "Generative Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "introduction": {
       "id": "introduction",
       "title": "Hello Unoplat",
       "description": "Unoplat",
+      "sidebar": "tutorialSidebar"
+    },
+    "knowledge-engineering-plane/introduction": {
+      "id": "knowledge-engineering-plane/introduction",
+      "title": "Knowledge Engineering Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "management-plane/introduction": {
+      "id": "management-plane/introduction",
+      "title": "Management Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "platform-as-a-service/introduction": {
+      "id": "platform-as-a-service/introduction",
+      "title": "Platform As a Service",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "super-charged-app-templates/introduction": {
+      "id": "super-charged-app-templates/introduction",
+      "title": "Super Charged App Templates",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "unoplat-datainfra/datainfra-appreloader": {

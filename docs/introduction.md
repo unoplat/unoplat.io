@@ -2,7 +2,6 @@
 title: Hello Unoplat
 slug: /
 layout: page
-author: Uttam Singh
 date: 09/09/2023
 Tags:
  -Docs
@@ -12,7 +11,7 @@ sidebar_position: 1
 
 # Introduction
 
-![Unoplat](/img/unoplat.png)
+![Unoplat](/img/NewLogo.png)
 
 Hello World . This is Unoplat, the first open-source, cloud-native data platform built to enable business derive the most value from data. Inspired by the foundational principles of data mesh, Unoplat is built to enable data-driven organizations to focus more on the business needs and less on the technology. As its name suggests, Unoplat is one-platform for all your data needs.
 

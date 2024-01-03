@@ -1,5 +1,92 @@
 {
   "docusaurus-plugin-content-docs": {
+    "playground": {
+      "path": "/playground",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/playground",
+          "mainDocId": "playground",
+          "docs": [
+            {
+              "id": "playground",
+              "path": "/playground/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/playground/",
+                "label": "playground"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "installation": {
+      "path": "/installation",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/installation",
+          "mainDocId": "installation",
+          "docs": [
+            {
+              "id": "installation",
+              "path": "/installation/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/installation/",
+                "label": "installation"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "aboutus": {
+      "path": "/aboutus",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/aboutus",
+          "mainDocId": "aboutus",
+          "docs": [
+            {
+              "id": "aboutus",
+              "path": "/aboutus/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/aboutus/",
+                "label": "aboutus"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
     "default": {
       "path": "/docs",
       "versions": [
@@ -11,8 +98,48 @@
           "mainDocId": "introduction",
           "docs": [
             {
+              "id": "data-mesh-plane/introduction",
+              "path": "/docs/data-mesh-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-streaming-plane/introduction",
+              "path": "/docs/data-streaming-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-experience-plane/introduction",
+              "path": "/docs/developer-experience-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generative-plane/introduction",
+              "path": "/docs/generative-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "introduction",
               "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge-engineering-plane/introduction",
+              "path": "/docs/knowledge-engineering-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "management-plane/introduction",
+              "path": "/docs/management-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "platform-as-a-service/introduction",
+              "path": "/docs/platform-as-a-service/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "super-charged-app-templates/introduction",
+              "path": "/docs/super-charged-app-templates/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -77,64 +204,6 @@
               "link": {
                 "path": "/docs/",
                 "label": "introduction"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
-    "installation": {
-      "path": "/installation",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/installation",
-          "mainDocId": "installation",
-          "docs": [
-            {
-              "id": "installation",
-              "path": "/installation/",
-              "sidebar": "defaultSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "defaultSidebar": {
-              "link": {
-                "path": "/installation/",
-                "label": "installation"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
-    "playground": {
-      "path": "/playground",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/playground",
-          "mainDocId": "playground",
-          "docs": [
-            {
-              "id": "playground",
-              "path": "/playground/",
-              "sidebar": "defaultSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "defaultSidebar": {
-              "link": {
-                "path": "/playground/",
-                "label": "playground"
               }
             }
           }

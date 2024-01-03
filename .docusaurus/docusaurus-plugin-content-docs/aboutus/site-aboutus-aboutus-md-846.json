@@ -1,0 +1,24 @@
+{
+  "unversionedId": "aboutus",
+  "id": "aboutus",
+  "title": "About Us",
+  "description": "",
+  "source": "@site/aboutus/aboutus.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/aboutus/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "aboutus",
+    "title": "About Us",
+    "slug": "/",
+    "layout": "page",
+    "date": "09/09/2023",
+    "Tags": [
+      "About Us"
+    ]
+  },
+  "sidebar": "defaultSidebar"
+}

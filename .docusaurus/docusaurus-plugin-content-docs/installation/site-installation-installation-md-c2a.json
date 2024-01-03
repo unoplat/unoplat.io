@@ -2,7 +2,7 @@
   "unversionedId": "installation",
   "id": "installation",
   "title": "Installation Guide",
-  "description": "This is the installation page for Unoplatwrgeufg",
+  "description": "Coming Soon",
   "source": "@site/installation/installation.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -15,7 +15,6 @@
     "title": "Installation Guide",
     "slug": "/",
     "layout": "page",
-    "author": "Uttam Singh",
     "date": "09/09/2023",
     "Tags": "-Installtion",
     "sidebar_position": 1

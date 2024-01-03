@@ -43,12 +43,72 @@ export default [
     exact: true
   },
   {
+    path: '/aboutus',
+    component: ComponentCreator('/aboutus', 'd3c'),
+    routes: [
+      {
+        path: '/aboutus/',
+        component: ComponentCreator('/aboutus/', 'aee'),
+        exact: true,
+        sidebar: "defaultSidebar"
+      }
+    ]
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '1da'),
+    component: ComponentCreator('/docs', 'd72'),
     routes: [
       {
         path: '/docs/',
         component: ComponentCreator('/docs/', '793'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/data-mesh-plane/introduction',
+        component: ComponentCreator('/docs/data-mesh-plane/introduction', 'fa5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/data-streaming-plane/introduction',
+        component: ComponentCreator('/docs/data-streaming-plane/introduction', '54e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/developer-experience-plane/introduction',
+        component: ComponentCreator('/docs/developer-experience-plane/introduction', '035'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/generative-plane/introduction',
+        component: ComponentCreator('/docs/generative-plane/introduction', '3fb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/knowledge-engineering-plane/introduction',
+        component: ComponentCreator('/docs/knowledge-engineering-plane/introduction', 'f52'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/management-plane/introduction',
+        component: ComponentCreator('/docs/management-plane/introduction', 'ea6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/platform-as-a-service/introduction',
+        component: ComponentCreator('/docs/platform-as-a-service/introduction', '064'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/super-charged-app-templates/introduction',
+        component: ComponentCreator('/docs/super-charged-app-templates/introduction', 'ff9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

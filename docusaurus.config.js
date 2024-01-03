@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/website-logo.png',
+      image: 'img/NewLogo.png',
       navbar: {
         //title: 'UnoPlat',
         logo: {
           alt: 'UnoPlat',
-          src: 'img/website-logo.png',
+          src: 'img/NewLogo.png',
         },
         items: [
           
@@ -107,6 +107,15 @@ const config = {
               {
                 label: 'Documentaion',
                 to: '/docs/',
+              },
+            ],
+          },
+          {
+            title: 'About Us',
+            items: [
+              {
+                label: 'About Us',
+                to: '/aboutus/',
               },
             ],
           },
@@ -161,7 +170,14 @@ const config = {
         path: "./playground",
       }
     ],
-  
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "aboutus",
+        routeBasePath: "/aboutus",
+        path: "./aboutus",
+      }
+    ], 
   async function myPlugin(context,options){
     return {
          name: "docusaurus-tailwindcss",

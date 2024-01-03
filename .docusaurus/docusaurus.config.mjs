@@ -40,11 +40,11 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/website-logo.png",
+    "image": "img/NewLogo.png",
     "navbar": {
       "logo": {
         "alt": "UnoPlat",
-        "src": "img/website-logo.png"
+        "src": "img/NewLogo.png"
       },
       "items": [
         {
@@ -81,6 +81,15 @@ export default {
           ]
         },
         {
+          "title": "About Us",
+          "items": [
+            {
+              "label": "About Us",
+              "to": "/aboutus/"
+            }
+          ]
+        },
+        {
           "title": "Community",
           "items": [
             {
@@ -99,7 +108,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Unoplat, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Unoplat, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -338,6 +347,14 @@ export default {
         "id": "playground",
         "routeBasePath": "/playground",
         "path": "./playground"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "aboutus",
+        "routeBasePath": "/aboutus",
+        "path": "./aboutus"
       }
     ],
     null
