@@ -901,7 +901,7 @@
               "unversionedId": "aboutus",
               "id": "aboutus",
               "title": "About Us",
-              "description": "",
+              "description": "The Co-Founders: The Ideation and Execution Pillars",
               "source": "@site/aboutus/aboutus.mdx",
               "sourceDirName": ".",
               "slug": "/",

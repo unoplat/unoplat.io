@@ -8,7 +8,7 @@ export default function TheProblemCard(){
          <h1 className={clsx("problemHeading",styles.problemHeading)}>The Problem</h1>
          <p class={clsx("problemText",styles.problemText)}>How do we start a SaaS startup? How do we get it up and running? </p>
          <div className={clsx("imageContainer",styles.imageContainer)}>
-              <img className={clsx("box-border rounded-sm border-none align-middle leading 6 ",styles.problemImage)} src={"/img/problem.png"} alt="The Problem Diagram"></img> 
+              <img className={clsx("box-border rounded-sm border-none align-middle leading 6 ",styles.problemImage)} src={"/img/problem_statement.svg"} alt="The Problem Diagram"></img> 
          </div>
       </div>
     );
