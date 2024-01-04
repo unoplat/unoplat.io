@@ -1,0 +1,30 @@
+{
+  "unversionedId": "platformAsService",
+  "id": "platformAsService",
+  "title": "Platform As a Service",
+  "description": "",
+  "source": "@site/docs/platformAsService.md",
+  "sourceDirName": ".",
+  "slug": "/platformAsService",
+  "permalink": "/docs/platformAsService",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/platformAsService.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Platform As a Service",
+    "layout": "page",
+    "Tags": "-Docs -PaaS",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello Unoplat",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Storage and Streaming System",
+    "permalink": "/docs/storageAndStreaming"
+  }
+}

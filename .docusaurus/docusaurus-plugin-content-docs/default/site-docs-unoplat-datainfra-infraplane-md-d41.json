@@ -19,8 +19,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Super Charged App Templates",
-    "permalink": "/docs/super-charged-app-templates/introduction"
+    "title": "Platform As a Service",
+    "permalink": "/docs/platform-as-a-service/introduction"
   },
   "next": {
     "title": "The Open Source Container Registry - Harbor",

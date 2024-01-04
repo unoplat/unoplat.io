@@ -22,7 +22,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Data Mesh Plane",
-    "permalink": "/docs/data-mesh-plane/introduction"
+    "title": "Platform As a Service",
+    "permalink": "/docs/platformAsService"
   }
 }

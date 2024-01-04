@@ -1,0 +1,30 @@
+{
+  "unversionedId": "devExperience",
+  "id": "devExperience",
+  "title": "Developer Experience Plane",
+  "description": "",
+  "source": "@site/docs/devExperience.md",
+  "sourceDirName": ".",
+  "slug": "/devExperience",
+  "permalink": "/docs/devExperience",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devExperience.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Developer Experience Plane",
+    "layout": "page",
+    "Tags": "-Docs -Dev Exp",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Super Charged App Templates",
+    "permalink": "/docs/superChargedAppTemplates"
+  },
+  "next": {
+    "title": "Generative Plane",
+    "permalink": "/docs/generativePlane"
+  }
+}

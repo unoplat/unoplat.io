@@ -1,0 +1,30 @@
+{
+  "unversionedId": "dataMeshPlane",
+  "id": "dataMeshPlane",
+  "title": "Data Mesh Plane",
+  "description": "",
+  "source": "@site/docs/dataMeshPlane.md",
+  "sourceDirName": ".",
+  "slug": "/dataMeshPlane",
+  "permalink": "/docs/dataMeshPlane",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dataMeshPlane.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Data Mesh Plane",
+    "layout": "page",
+    "Tags": "-Docs -App templates",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generative Plane",
+    "permalink": "/docs/generativePlane"
+  },
+  "next": {
+    "title": "Management Plane",
+    "permalink": "/docs/managementPlane"
+  }
+}

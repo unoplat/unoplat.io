@@ -7,16 +7,16 @@
   align-self: center;
   align-items: center;
   text-align: center;
+  margin-top: 10px;
  }
 
 
  
  .headerMain {
   text-align: center;
-  background: linear-gradient(to right, #323b56, #8f94fb); /* Adjust the colors as needed */
   align-items: center;
   justify-content: center;
-  color: white;
+  background-color:#C4C4C4;
   
 }
 
@@ -27,7 +27,7 @@ html[data-theme='dark'] .headerMain{
 }
 
 .headerTitle {
-  margin-bottom: 0%;
+  margin-bottom: 10px;
   font-size: 72px;
   font-family: "Inter";
 }
@@ -35,7 +35,7 @@ html[data-theme='dark'] .headerMain{
 .headerTagLine {
   font-size: 42px;
   font-family: Inter;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
 }
 .buttons {
   align-items: center;
@@ -62,4 +62,10 @@ html[data-theme='dark'] .headerMain{
   height: 15px;
   width: 15px;
   margin: 0%;
+}
+
+.logoImage {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 10px;
 }

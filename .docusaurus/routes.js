@@ -56,7 +56,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd72'),
+    component: ComponentCreator('/docs', '426'),
     routes: [
       {
         path: '/docs/',
@@ -65,116 +65,50 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/data-mesh-plane/introduction',
-        component: ComponentCreator('/docs/data-mesh-plane/introduction', 'fa5'),
+        path: '/docs/dataMeshPlane',
+        component: ComponentCreator('/docs/dataMeshPlane', 'bb8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/data-streaming-plane/introduction',
-        component: ComponentCreator('/docs/data-streaming-plane/introduction', '54e'),
+        path: '/docs/devExperience',
+        component: ComponentCreator('/docs/devExperience', 'bac'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/developer-experience-plane/introduction',
-        component: ComponentCreator('/docs/developer-experience-plane/introduction', '035'),
+        path: '/docs/generativePlane',
+        component: ComponentCreator('/docs/generativePlane', 'faa'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/generative-plane/introduction',
-        component: ComponentCreator('/docs/generative-plane/introduction', '3fb'),
+        path: '/docs/knowledgeEngineering',
+        component: ComponentCreator('/docs/knowledgeEngineering', 'f24'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/knowledge-engineering-plane/introduction',
-        component: ComponentCreator('/docs/knowledge-engineering-plane/introduction', 'f52'),
+        path: '/docs/managementPlane',
+        component: ComponentCreator('/docs/managementPlane', 'b60'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/management-plane/introduction',
-        component: ComponentCreator('/docs/management-plane/introduction', 'ea6'),
+        path: '/docs/platformAsService',
+        component: ComponentCreator('/docs/platformAsService', '0a2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/platform-as-a-service/introduction',
-        component: ComponentCreator('/docs/platform-as-a-service/introduction', '064'),
+        path: '/docs/storageAndStreaming',
+        component: ComponentCreator('/docs/storageAndStreaming', 'a31'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/super-charged-app-templates/introduction',
-        component: ComponentCreator('/docs/super-charged-app-templates/introduction', 'ff9'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-appreloader',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-appreloader', '913'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-flinkoperator',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-flinkoperator', 'eae'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-harbor',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-harbor', 'a5b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-k6',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-k6', 'a8f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-keda',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-keda', '569'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/datainfra-sealedsecrets',
-        component: ComponentCreator('/docs/unoplat-datainfra/datainfra-sealedsecrets', 'e2c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-datainfra/intro-to-datainfra',
-        component: ComponentCreator('/docs/unoplat-datainfra/intro-to-datainfra', '798'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-dev-plane/intro-to-developer-plane',
-        component: ComponentCreator('/docs/unoplat-dev-plane/intro-to-developer-plane', '723'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability',
-        component: ComponentCreator('/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability', 'd4e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-network-and-policy-plane/intro-to-consul',
-        component: ComponentCreator('/docs/unoplat-network-and-policy-plane/intro-to-consul', '90c'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/unoplat-network-and-policy-plane/intro-to-datainfra',
-        component: ComponentCreator('/docs/unoplat-network-and-policy-plane/intro-to-datainfra', '216'),
+        path: '/docs/superChargedAppTemplates',
+        component: ComponentCreator('/docs/superChargedAppTemplates', '641'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

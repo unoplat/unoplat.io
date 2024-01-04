@@ -60,7 +60,7 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---aboutus-7-f-5-cd0"
   },
-  "/docs-d72": {
+  "/docs-426": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docs-2-a-3-537"
@@ -71,81 +71,37 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-a-09-789"
   },
-  "/docs/data-mesh-plane/introduction-fa5": {
+  "/docs/dataMeshPlane-bb8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-data-mesh-plane-introduction-7-d-9-bf4"
+    "content": "content---docs-data-mesh-planef-22-71b"
   },
-  "/docs/data-streaming-plane/introduction-54e": {
+  "/docs/devExperience-bac": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-data-streaming-plane-introduction-6-a-1-726"
+    "content": "content---docs-dev-experience-8-f-7-bd4"
   },
-  "/docs/developer-experience-plane/introduction-035": {
+  "/docs/generativePlane-faa": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-developer-experience-plane-introduction-642-3a1"
+    "content": "content---docs-generative-planeee-3-c1c"
   },
-  "/docs/generative-plane/introduction-3fb": {
+  "/docs/knowledgeEngineering-f24": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-generative-plane-introduction-7-e-4-cde"
+    "content": "content---docs-knowledge-engineering-696-0ce"
   },
-  "/docs/knowledge-engineering-plane/introduction-f52": {
+  "/docs/managementPlane-b60": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-knowledge-engineering-plane-introduction-26-f-30a"
+    "content": "content---docs-management-plane-20-d-f22"
   },
-  "/docs/management-plane/introduction-ea6": {
+  "/docs/platformAsService-0a2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-management-plane-introduction-665-7e0"
+    "content": "content---docs-platform-as-service-5-c-5-883"
   },
-  "/docs/platform-as-a-service/introduction-064": {
+  "/docs/storageAndStreaming-a31": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-platform-as-a-service-introductiona-38-f95"
+    "content": "content---docs-storage-and-streaming-534-082"
   },
-  "/docs/super-charged-app-templates/introduction-ff9": {
+  "/docs/superChargedAppTemplates-641": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-super-charged-app-templates-introduction-4-a-6-6bb"
-  },
-  "/docs/unoplat-datainfra/datainfra-appreloader-913": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-appreloader-622-020"
-  },
-  "/docs/unoplat-datainfra/datainfra-flinkoperator-eae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-flinkoperatord-1-b-6c0"
-  },
-  "/docs/unoplat-datainfra/datainfra-harbor-a5b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-harbor-83-e-418"
-  },
-  "/docs/unoplat-datainfra/datainfra-k6-a8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-k-66-b-7-516"
-  },
-  "/docs/unoplat-datainfra/datainfra-keda-569": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-kedae-7-f-dd6"
-  },
-  "/docs/unoplat-datainfra/datainfra-sealedsecrets-e2c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-datainfra-sealedsecrets-479-e69"
-  },
-  "/docs/unoplat-datainfra/intro-to-datainfra-798": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-datainfra-intro-to-datainfrad-41-487"
-  },
-  "/docs/unoplat-dev-plane/intro-to-developer-plane-723": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-dev-plane-intro-to-developer-plane-9-b-7-d2e"
-  },
-  "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability-d4e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-monitoring-plane-intro-to-monitoring-and-observability-7-f-2-3b6"
-  },
-  "/docs/unoplat-network-and-policy-plane/intro-to-consul-90c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-consulaf-1-6db"
-  },
-  "/docs/unoplat-network-and-policy-plane/intro-to-datainfra-216": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-datainfra-1-c-3-26f"
+    "content": "content---docs-super-charged-app-templatese-5-b-cde"
   },
   "/installation-1ed": {
     "__comp": "__comp---theme-doc-page-1-be-9be",

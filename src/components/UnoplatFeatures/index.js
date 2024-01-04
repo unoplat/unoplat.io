@@ -7,50 +7,50 @@ const planes =[
         Svg: require('@site/static/img/PaaS.svg').default,
         title: 'Platform As A Service',
         hoverText: 'The onmouseover event is similar to the onmouseenter event. The difference is that the onmouseenter event does not bubble (does not propagate up the document hierarchy). See "More Examples" at the bottom of this page to better understand the differences.',
-        followUpLink:'/docs/platform-as-a-service/introduction'
+        followUpLink:'/docs/platformAsService'
     },
     {
         Svg: require('@site/static/img/StorageAndStreaming.svg').default,
-        title: 'Storage and Streaming Plane',
+        title: 'Storage and Streaming Systems',
         hoverText: 'Random Text',
-        followUpLink:'/docs/data-streaming-plane/introduction'
+        followUpLink:'/docs/storageAndStreaming'
     },
     {
         Svg: require('@site/static/img/SuperChargedAppTemplates.svg').default,
         title: 'Supercharged App Templates',
-        hoverText: 'Random Text',
-        followUpLink:'/docs/super-charged-app-templates/introduction'
+        hoverText: 'The heart of UnoPlat, these templates are designed as foundational building blocks for SaaS creation, enabling users to easily assemble and customize their applications with minimal coding',
+        followUpLink:'/docs/superChargedAppTemplates'
 
     },
     {
         Svg: require('@site/static/img/DeveloperExperience.svg').default,
         title: 'Developer Experience Plane',
         hoverText: 'Random Text',
-        followUpLink:'/docs/developer-experience-plane/introduction'
+        followUpLink:'/docs/devExperience'
     },
     {
         Svg: require('@site/static/img/GenerativePlane.svg').default,
         title: 'Generative Plane',
         hoverText: 'Random Text',
-        followUpLink:'/docs/generative-plane/introduction'
+        followUpLink:'/docs/generativePlane'
     },
     {
         Svg: require('@site/static/img/DataMesh.svg').default,
         title: 'Data Mesh',
         hoverText: 'Random Text',
-        followUpLink:'/docs/data-mesh-plane/introduction'
+        followUpLink:'/docs/dataMeshPlane'
     },
     {
         Svg: require('@site/static/img/ManagementPlane.svg').default,
         title: 'Management Plane',
         hoverText: 'Random Text',
-        followUpLink:'/docs/management-plane/introduction'
+        followUpLink:'/docs/managementPlane'
     },
     {
         Svg: require('@site/static/img/KnowledgeEngineering.svg').default,
-        title: 'Knowledge Engineering Plane',
+        title: 'Knowledge Engineering Templates',
         hoverText: 'Random Text',
-        followUpLink:'/docs/knowledge-engineering-plane/introduction'
+        followUpLink:'/docs/knowledgeEngineering'
     }
    
 ];
@@ -75,7 +75,7 @@ function Feature({Svg, title, hoverText,followUpLink}) {
           <div className="image-container">
           <Svg className="featureSvgs" role="img" onClick={handleImageClick} />
           <div className="text--center padding-horiz--md">
-          <h3>{title}</h3>
+          {/* <h3>{title}</h3> */}
         </div>
           {showParagraph && (
           <div className="text-box">
@@ -96,7 +96,7 @@ function Feature({Svg, title, hoverText,followUpLink}) {
         <div className="solution">
         <h1 className="solution-heading">How UnoPlat Helps ?</h1>
         <p className="text-box">
-          "UnoPlat utilizes Kubernetes as the orchestration medium, deploying a fleet of toolkits that enable the creation and management of a Data Mesh. UnoPlat is composed of a collection of planes"
+          "UnoPlat utilizes Kubernetes as the orchestration medium, deploying a fleet of toolkits that enable the creation and management of a Data Mesh. UnoPlat is composed of a collection of planes. UnoPlat streamlines SaaS development by offering SuperCharged Application Templates for easy assembly and customization of applications with minimal coding"
        </p>
       <section className="features">
         <div className="container">

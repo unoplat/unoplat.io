@@ -3,6 +3,6 @@ title: Management Plane
 layout: page
 Tags:
  -Docs
- -Management Plane
-sidebar_position: 1
+ -App templates
+sidebar_position: 8
 ---
