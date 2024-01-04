@@ -1,0 +1,17 @@
+.youtube-video {
+    width: 100%;
+  }
+
+  .heading {
+    text-align: center;
+}
+
+.youtube-video {
+    justify-content: center;
+    display: flex;
+    font-display: center;
+}
+.mainSection {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

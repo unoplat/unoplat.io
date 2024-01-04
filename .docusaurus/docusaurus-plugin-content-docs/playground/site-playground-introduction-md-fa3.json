@@ -1,0 +1,19 @@
+{
+  "unversionedId": "playground",
+  "id": "playground",
+  "title": "Playground",
+  "description": "",
+  "source": "@site/playground/introduction.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/playground/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "playground",
+    "title": "Playground",
+    "slug": "/"
+  },
+  "sidebar": "defaultSidebar"
+}

@@ -1,0 +1,179 @@
+{
+  "/__docusaurus/debug-059": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/__docusaurus/debug/config-1a4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/__docusaurus/debug/content-6cc": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-9f2": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/__docusaurus/debug/metadata-540": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/__docusaurus/debug/registry-814": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/__docusaurus/debug/routes-677": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugd-5-f-122"
+    }
+  },
+  "/markdown-page-d2a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pageb-06-e52"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/aboutus-d3c": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---aboutus-235-8e2"
+    },
+    "versionMetadata": "versionMetadata---aboutus-75-f-055"
+  },
+  "/aboutus/-aee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---aboutus-7-f-5-cd0"
+  },
+  "/docs-d72": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-2-a-3-537"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-793": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-a-09-789"
+  },
+  "/docs/data-mesh-plane/introduction-fa5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-mesh-plane-introduction-7-d-9-bf4"
+  },
+  "/docs/data-streaming-plane/introduction-54e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-data-streaming-plane-introduction-6-a-1-726"
+  },
+  "/docs/developer-experience-plane/introduction-035": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-developer-experience-plane-introduction-642-3a1"
+  },
+  "/docs/generative-plane/introduction-3fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-generative-plane-introduction-7-e-4-cde"
+  },
+  "/docs/knowledge-engineering-plane/introduction-f52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-knowledge-engineering-plane-introduction-26-f-30a"
+  },
+  "/docs/management-plane/introduction-ea6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-management-plane-introduction-665-7e0"
+  },
+  "/docs/platform-as-a-service/introduction-064": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-platform-as-a-service-introductiona-38-f95"
+  },
+  "/docs/super-charged-app-templates/introduction-ff9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-super-charged-app-templates-introduction-4-a-6-6bb"
+  },
+  "/docs/unoplat-datainfra/datainfra-appreloader-913": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-appreloader-622-020"
+  },
+  "/docs/unoplat-datainfra/datainfra-flinkoperator-eae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-flinkoperatord-1-b-6c0"
+  },
+  "/docs/unoplat-datainfra/datainfra-harbor-a5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-harbor-83-e-418"
+  },
+  "/docs/unoplat-datainfra/datainfra-k6-a8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-k-66-b-7-516"
+  },
+  "/docs/unoplat-datainfra/datainfra-keda-569": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-kedae-7-f-dd6"
+  },
+  "/docs/unoplat-datainfra/datainfra-sealedsecrets-e2c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-datainfra-sealedsecrets-479-e69"
+  },
+  "/docs/unoplat-datainfra/intro-to-datainfra-798": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-datainfra-intro-to-datainfrad-41-487"
+  },
+  "/docs/unoplat-dev-plane/intro-to-developer-plane-723": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-dev-plane-intro-to-developer-plane-9-b-7-d2e"
+  },
+  "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability-d4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-monitoring-plane-intro-to-monitoring-and-observability-7-f-2-3b6"
+  },
+  "/docs/unoplat-network-and-policy-plane/intro-to-consul-90c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-consulaf-1-6db"
+  },
+  "/docs/unoplat-network-and-policy-plane/intro-to-datainfra-216": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-unoplat-network-and-policy-plane-intro-to-datainfra-1-c-3-26f"
+  },
+  "/installation-1ed": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---installationa-67-48e"
+    },
+    "versionMetadata": "versionMetadata---installation-765-18b"
+  },
+  "/installation/-20d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---installation-c-2-a-068"
+  },
+  "/playground-6f7": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---playgroundbd-0-886"
+    },
+    "versionMetadata": "versionMetadata---playgroundd-07-c4d"
+  },
+  "/playground/-193": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---playground-fa-3-65d"
+  },
+  "/-8f2": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pageb-06-e52"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

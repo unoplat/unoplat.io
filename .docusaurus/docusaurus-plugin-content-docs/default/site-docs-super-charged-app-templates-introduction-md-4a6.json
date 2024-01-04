@@ -1,0 +1,30 @@
+{
+  "unversionedId": "super-charged-app-templates/introduction",
+  "id": "super-charged-app-templates/introduction",
+  "title": "Super Charged App Templates",
+  "description": "",
+  "source": "@site/docs/super-charged-app-templates/introduction.md",
+  "sourceDirName": "super-charged-app-templates",
+  "slug": "/super-charged-app-templates/introduction",
+  "permalink": "/docs/super-charged-app-templates/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/super-charged-app-templates/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Super Charged App Templates",
+    "layout": "page",
+    "Tags": "-Docs -App templates",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Platform As a Service",
+    "permalink": "/docs/platform-as-a-service/introduction"
+  },
+  "next": {
+    "title": "The Infrastructure Plane",
+    "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+  }
+}

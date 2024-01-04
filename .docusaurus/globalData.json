@@ -1,0 +1,215 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "data-mesh-plane/introduction",
+              "path": "/docs/data-mesh-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "data-streaming-plane/introduction",
+              "path": "/docs/data-streaming-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "developer-experience-plane/introduction",
+              "path": "/docs/developer-experience-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generative-plane/introduction",
+              "path": "/docs/generative-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledge-engineering-plane/introduction",
+              "path": "/docs/knowledge-engineering-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "management-plane/introduction",
+              "path": "/docs/management-plane/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "platform-as-a-service/introduction",
+              "path": "/docs/platform-as-a-service/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "super-charged-app-templates/introduction",
+              "path": "/docs/super-charged-app-templates/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-appreloader",
+              "path": "/docs/unoplat-datainfra/datainfra-appreloader",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-flinkoperator",
+              "path": "/docs/unoplat-datainfra/datainfra-flinkoperator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-harbor",
+              "path": "/docs/unoplat-datainfra/datainfra-harbor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-k6",
+              "path": "/docs/unoplat-datainfra/datainfra-k6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-keda",
+              "path": "/docs/unoplat-datainfra/datainfra-keda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/datainfra-sealedsecrets",
+              "path": "/docs/unoplat-datainfra/datainfra-sealedsecrets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-datainfra/intro-to-datainfra",
+              "path": "/docs/unoplat-datainfra/intro-to-datainfra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-dev-plane/intro-to-developer-plane",
+              "path": "/docs/unoplat-dev-plane/intro-to-developer-plane",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "path": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-network-and-policy-plane/intro-to-consul",
+              "path": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
+              "path": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "installation": {
+      "path": "/installation",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/installation",
+          "mainDocId": "installation",
+          "docs": [
+            {
+              "id": "installation",
+              "path": "/installation/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/installation/",
+                "label": "installation"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "playground": {
+      "path": "/playground",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/playground",
+          "mainDocId": "playground",
+          "docs": [
+            {
+              "id": "playground",
+              "path": "/playground/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/playground/",
+                "label": "playground"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "aboutus": {
+      "path": "/aboutus",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/aboutus",
+          "mainDocId": "aboutus",
+          "docs": [
+            {
+              "id": "aboutus",
+              "path": "/aboutus/",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/aboutus/",
+                "label": "aboutus"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

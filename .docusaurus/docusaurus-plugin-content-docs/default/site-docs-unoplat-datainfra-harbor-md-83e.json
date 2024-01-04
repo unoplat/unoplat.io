@@ -1,0 +1,29 @@
+{
+  "unversionedId": "unoplat-datainfra/datainfra-harbor",
+  "id": "unoplat-datainfra/datainfra-harbor",
+  "title": "The Open Source Container Registry - Harbor",
+  "description": "",
+  "source": "@site/docs/unoplat-datainfra/harbor.md",
+  "sourceDirName": "unoplat-datainfra",
+  "slug": "/unoplat-datainfra/datainfra-harbor",
+  "permalink": "/docs/unoplat-datainfra/datainfra-harbor",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/harbor.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "datainfra-harbor",
+    "title": "The Open Source Container Registry - Harbor",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Infrastructure Plane",
+    "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+  },
+  "next": {
+    "title": "The Streaming Infra - Flink k8s operator",
+    "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+  }
+}

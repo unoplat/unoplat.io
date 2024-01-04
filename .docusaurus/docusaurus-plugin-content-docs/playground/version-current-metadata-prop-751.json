@@ -1,0 +1,28 @@
+{
+  "pluginId": "playground",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "defaultSidebar": [
+      {
+        "type": "link",
+        "label": "Playground",
+        "href": "/playground/",
+        "docId": "playground"
+      }
+    ]
+  },
+  "docs": {
+    "playground": {
+      "id": "playground",
+      "title": "Playground",
+      "description": "",
+      "sidebar": "defaultSidebar"
+    }
+  }
+}

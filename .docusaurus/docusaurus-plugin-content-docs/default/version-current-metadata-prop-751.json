@@ -1,0 +1,352 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Hello Unoplat",
+        "href": "/docs/",
+        "docId": "introduction"
+      },
+      {
+        "type": "category",
+        "label": "data-mesh-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Data Mesh Plane",
+            "href": "/docs/data-mesh-plane/introduction",
+            "docId": "data-mesh-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "data-streaming-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Storage and Streaming System",
+            "href": "/docs/data-streaming-plane/introduction",
+            "docId": "data-streaming-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "developer-experience-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Developer Experience Plane",
+            "href": "/docs/developer-experience-plane/introduction",
+            "docId": "developer-experience-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "generative-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Generative Plane",
+            "href": "/docs/generative-plane/introduction",
+            "docId": "generative-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "knowledge-engineering-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Knowledge Engineering Plane",
+            "href": "/docs/knowledge-engineering-plane/introduction",
+            "docId": "knowledge-engineering-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "management-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Management Plane",
+            "href": "/docs/management-plane/introduction",
+            "docId": "management-plane/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "platform-as-a-service",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Platform As a Service",
+            "href": "/docs/platform-as-a-service/introduction",
+            "docId": "platform-as-a-service/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "super-charged-app-templates",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Super Charged App Templates",
+            "href": "/docs/super-charged-app-templates/introduction",
+            "docId": "super-charged-app-templates/introduction"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-datainfra",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Infrastructure Plane",
+            "href": "/docs/unoplat-datainfra/intro-to-datainfra",
+            "docId": "unoplat-datainfra/intro-to-datainfra"
+          },
+          {
+            "type": "link",
+            "label": "The Open Source Container Registry - Harbor",
+            "href": "/docs/unoplat-datainfra/datainfra-harbor",
+            "docId": "unoplat-datainfra/datainfra-harbor"
+          },
+          {
+            "type": "link",
+            "label": "The Streaming Infra - Flink k8s operator",
+            "href": "/docs/unoplat-datainfra/datainfra-flinkoperator",
+            "docId": "unoplat-datainfra/datainfra-flinkoperator"
+          },
+          {
+            "type": "link",
+            "label": "Reactive Scaling with KEDA",
+            "href": "/docs/unoplat-datainfra/datainfra-keda",
+            "docId": "unoplat-datainfra/datainfra-keda"
+          },
+          {
+            "type": "link",
+            "label": "Sealed Secrets with Bitnami",
+            "href": "/docs/unoplat-datainfra/datainfra-sealedsecrets",
+            "docId": "unoplat-datainfra/datainfra-sealedsecrets"
+          },
+          {
+            "type": "link",
+            "label": "App Management with App Reloader",
+            "href": "/docs/unoplat-datainfra/datainfra-appreloader",
+            "docId": "unoplat-datainfra/datainfra-appreloader"
+          },
+          {
+            "type": "link",
+            "label": "Distributed Load Testing with k6 operator",
+            "href": "/docs/unoplat-datainfra/datainfra-k6",
+            "docId": "unoplat-datainfra/datainfra-k6"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-dev-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Developer Plane",
+            "href": "/docs/unoplat-dev-plane/intro-to-developer-plane",
+            "docId": "unoplat-dev-plane/intro-to-developer-plane"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-monitoring-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Monitoring Plane",
+            "href": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+            "docId": "unoplat-monitoring-plane/intro-to-monitoring-and-observability"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "unoplat-network-and-policy-plane",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "The Network and Policy Plane",
+            "href": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
+            "docId": "unoplat-network-and-policy-plane/intro-to-datainfra"
+          },
+          {
+            "type": "link",
+            "label": "Service Mesh with Consul",
+            "href": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+            "docId": "unoplat-network-and-policy-plane/intro-to-consul"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "data-mesh-plane/introduction": {
+      "id": "data-mesh-plane/introduction",
+      "title": "Data Mesh Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "data-streaming-plane/introduction": {
+      "id": "data-streaming-plane/introduction",
+      "title": "Storage and Streaming System",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "developer-experience-plane/introduction": {
+      "id": "developer-experience-plane/introduction",
+      "title": "Developer Experience Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "generative-plane/introduction": {
+      "id": "generative-plane/introduction",
+      "title": "Generative Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "Hello Unoplat",
+      "description": "Unoplat",
+      "sidebar": "tutorialSidebar"
+    },
+    "knowledge-engineering-plane/introduction": {
+      "id": "knowledge-engineering-plane/introduction",
+      "title": "Knowledge Engineering Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "management-plane/introduction": {
+      "id": "management-plane/introduction",
+      "title": "Management Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "platform-as-a-service/introduction": {
+      "id": "platform-as-a-service/introduction",
+      "title": "Platform As a Service",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "super-charged-app-templates/introduction": {
+      "id": "super-charged-app-templates/introduction",
+      "title": "Super Charged App Templates",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-appreloader": {
+      "id": "unoplat-datainfra/datainfra-appreloader",
+      "title": "App Management with App Reloader",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-flinkoperator": {
+      "id": "unoplat-datainfra/datainfra-flinkoperator",
+      "title": "The Streaming Infra - Flink k8s operator",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-harbor": {
+      "id": "unoplat-datainfra/datainfra-harbor",
+      "title": "The Open Source Container Registry - Harbor",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-k6": {
+      "id": "unoplat-datainfra/datainfra-k6",
+      "title": "Distributed Load Testing with k6 operator",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-keda": {
+      "id": "unoplat-datainfra/datainfra-keda",
+      "title": "Reactive Scaling with KEDA",
+      "description": "What works at scale may be different from scaling what works.",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/datainfra-sealedsecrets": {
+      "id": "unoplat-datainfra/datainfra-sealedsecrets",
+      "title": "Sealed Secrets with Bitnami",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-datainfra/intro-to-datainfra": {
+      "id": "unoplat-datainfra/intro-to-datainfra",
+      "title": "The Infrastructure Plane",
+      "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana, k6 etc.",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-dev-plane/intro-to-developer-plane": {
+      "id": "unoplat-dev-plane/intro-to-developer-plane",
+      "title": "The Developer Plane",
+      "description": "To talk about spotify backstage tilt",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-monitoring-plane/intro-to-monitoring-and-observability": {
+      "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
+      "title": "The Monitoring Plane",
+      "description": "Application Performance Monitoring is key to any data oriented organization to keep a tap on application health and performance.",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-network-and-policy-plane/intro-to-consul": {
+      "id": "unoplat-network-and-policy-plane/intro-to-consul",
+      "title": "Service Mesh with Consul",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "unoplat-network-and-policy-plane/intro-to-datainfra": {
+      "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
+      "title": "The Network and Policy Plane",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

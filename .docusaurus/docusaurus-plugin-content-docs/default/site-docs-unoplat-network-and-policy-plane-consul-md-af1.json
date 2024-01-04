@@ -1,0 +1,23 @@
+{
+  "unversionedId": "unoplat-network-and-policy-plane/intro-to-consul",
+  "id": "unoplat-network-and-policy-plane/intro-to-consul",
+  "title": "Service Mesh with Consul",
+  "description": "",
+  "source": "@site/docs/unoplat-network-and-policy-plane/consul.md",
+  "sourceDirName": "unoplat-network-and-policy-plane",
+  "slug": "/unoplat-network-and-policy-plane/intro-to-consul",
+  "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-network-and-policy-plane/consul.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro-to-consul",
+    "title": "Service Mesh with Consul"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Network and Policy Plane",
+    "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
+  }
+}

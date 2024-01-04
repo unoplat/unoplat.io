@@ -1,0 +1,23 @@
+{
+  "unversionedId": "installation",
+  "id": "installation",
+  "title": "Installation Guide",
+  "description": "Coming Soon",
+  "source": "@site/installation/installation.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/installation/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Installation Guide",
+    "slug": "/",
+    "layout": "page",
+    "date": "09/09/2023",
+    "Tags": "-Installtion",
+    "sidebar_position": 1
+  },
+  "sidebar": "defaultSidebar"
+}

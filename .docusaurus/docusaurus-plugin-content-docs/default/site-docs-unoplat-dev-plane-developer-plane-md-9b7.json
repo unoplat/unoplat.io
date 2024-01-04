@@ -1,0 +1,27 @@
+{
+  "unversionedId": "unoplat-dev-plane/intro-to-developer-plane",
+  "id": "unoplat-dev-plane/intro-to-developer-plane",
+  "title": "The Developer Plane",
+  "description": "To talk about spotify backstage tilt",
+  "source": "@site/docs/unoplat-dev-plane/developerPlane.md",
+  "sourceDirName": "unoplat-dev-plane",
+  "slug": "/unoplat-dev-plane/intro-to-developer-plane",
+  "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-dev-plane/developerPlane.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro-to-developer-plane",
+    "title": "The Developer Plane"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distributed Load Testing with k6 operator",
+    "permalink": "/docs/unoplat-datainfra/datainfra-k6"
+  },
+  "next": {
+    "title": "The Monitoring Plane",
+    "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
+  }
+}

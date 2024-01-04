@@ -1,2 +1,3 @@
-# unoplat.io
-This repository contains code for static web page using docosaurus
+To run this project clone the project and run in local :
+npm install 
+npm start 
