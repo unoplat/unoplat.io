@@ -2,7 +2,7 @@
   "unversionedId": "knowledgeEngineering",
   "id": "knowledgeEngineering",
   "title": "Knowledge Engineering Templates",
-  "description": "",
+  "description": "UnoPlat's Knowledge Engineering involves integrating domain expertise and data into the platform, thereby enhancing its capabilities for informed decision-making and process automation. Simultaneously, UnoPlat is dedicated to creating a comprehensive knowledge base of code, which aids in the auto-generation of code in future projects, streamlining development and aligning with industry-specific standards and practices for more efficient and innovative software creation.",
   "source": "@site/docs/knowledgeEngineering.md",
   "sourceDirName": ".",
   "slug": "/knowledgeEngineering",
