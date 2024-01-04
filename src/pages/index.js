@@ -13,7 +13,7 @@ function HomepageHeader() {
     return(
         <header className={clsx("headerMain",styles.headerMain)}>
           <div className="headerContainer">
-                  <h1 className={clsx("headerTitle",styles.headerTitle)}>{siteConfig.title}</h1>
+                  {/* <h1 className={clsx("headerTitle",styles.headerTitle)}>{siteConfig.title}</h1> */}
                   <img  className={clsx("logoImage",styles.logoImage)} src ={"/img/unoplatnew.svg"} alt="unoplat logo"/>
                   <p className={clsx("headerTagLine",styles.headerTagLine)}>Single Human Backend Enterprise</p>            
         </div> 

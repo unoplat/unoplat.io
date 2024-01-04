@@ -96,7 +96,7 @@ function Feature({Svg, title, hoverText,followUpLink}) {
         <div className="solution">
         <h1 className="solution-heading">How UnoPlat Helps ?</h1>
         <p className="text-box">
-          "UnoPlat utilizes Kubernetes as the orchestration medium, deploying a fleet of toolkits that enable the creation and management of a Data Mesh. UnoPlat is composed of a collection of planes. UnoPlat streamlines SaaS development by offering SuperCharged Application Templates for easy assembly and customization of applications with minimal coding"
+          " UnoPlat streamlines SaaS development by offering SuperCharged Application Templates for easy assembly and customization of applications with minimal coding"
        </p>
       <section className="features">
         <div className="container">

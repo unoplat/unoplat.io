@@ -2,7 +2,7 @@
   "unversionedId": "installation",
   "id": "installation",
   "title": "Installation Guide",
-  "description": "Coming Soon",
+  "description": "Installing UnoPlat",
   "source": "@site/installation/installation.md",
   "sourceDirName": ".",
   "slug": "/",
