@@ -20,11 +20,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hello Unoplat",
-    "permalink": "/docs/"
+    "title": "Super Charged App Templates",
+    "permalink": "/docs/superChargedAppTemplates"
   },
   "next": {
-    "title": "Storage and Streaming System",
-    "permalink": "/docs/data-streaming-plane/introduction"
+    "title": "Generative Plane",
+    "permalink": "/docs/generative-plane/introduction"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "knowledgeEngineering",
+  "id": "knowledgeEngineering",
+  "title": "Knowledge Engineering Templates",
+  "description": "",
+  "source": "@site/docs/knowledgeEngineering.md",
+  "sourceDirName": ".",
+  "slug": "/knowledgeEngineering",
+  "permalink": "/docs/knowledgeEngineering",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledgeEngineering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Knowledge Engineering Templates",
+    "layout": "page",
+    "Tags": "-Docs -App templates",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Management Plane",
+    "permalink": "/docs/managementPlane"
+  }
+}

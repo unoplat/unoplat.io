@@ -14,13 +14,14 @@ function HomepageHeader() {
         <header className={clsx("headerMain",styles.headerMain)}>
           <div className="headerContainer">
                   <h1 className={clsx("headerTitle",styles.headerTitle)}>{siteConfig.title}</h1>
+                  <img  className={clsx("logoImage",styles.logoImage)} src ={"/img/unoplatnew.svg"} alt="unoplat logo"/>
                   <p className={clsx("headerTagLine",styles.headerTagLine)}>Single Human Backend Enterprise</p>            
         </div> 
         <div className={clsx("buttons",styles.buttons)}>
                     <Link
                       className={clsx("button button--secondary button--lg",styles.docButton)}
                       to="/docs">
-                      Documentaion
+                      Documentation
                   </Link>
 
                 

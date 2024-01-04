@@ -20,8 +20,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Developer Experience Plane",
-    "permalink": "/docs/developer-experience-plane/introduction"
+    "title": "Data Mesh Plane",
+    "permalink": "/docs/data-mesh-plane/introduction"
   },
   "next": {
     "title": "Knowledge Engineering Plane",

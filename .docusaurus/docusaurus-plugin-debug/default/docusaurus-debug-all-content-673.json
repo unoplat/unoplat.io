@@ -20,123 +20,93 @@
           "contentPathLocalized": "/Users/uttamsingh/Desktop/learnings/unoplat.io/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "data-mesh-plane/introduction",
-              "id": "data-mesh-plane/introduction",
+              "unversionedId": "dataMeshPlane",
+              "id": "dataMeshPlane",
               "title": "Data Mesh Plane",
               "description": "",
-              "source": "@site/docs/data-mesh-plane/introduction.md",
-              "sourceDirName": "data-mesh-plane",
-              "slug": "/data-mesh-plane/introduction",
-              "permalink": "/docs/data-mesh-plane/introduction",
+              "source": "@site/docs/dataMeshPlane.md",
+              "sourceDirName": ".",
+              "slug": "/dataMeshPlane",
+              "permalink": "/docs/dataMeshPlane",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data-mesh-plane/introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/dataMeshPlane.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 7,
               "frontMatter": {
                 "title": "Data Mesh Plane",
                 "layout": "page",
-                "Tags": "-Docs -Data Mesh",
-                "sidebar_position": 1
+                "Tags": "-Docs -App templates",
+                "sidebar_position": 7
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Hello Unoplat",
-                "permalink": "/docs/"
+                "title": "Generative Plane",
+                "permalink": "/docs/generativePlane"
               },
               "next": {
-                "title": "Storage and Streaming System",
-                "permalink": "/docs/data-streaming-plane/introduction"
+                "title": "Management Plane",
+                "permalink": "/docs/managementPlane"
               }
             },
             {
-              "unversionedId": "data-streaming-plane/introduction",
-              "id": "data-streaming-plane/introduction",
-              "title": "Storage and Streaming System",
-              "description": "",
-              "source": "@site/docs/data-streaming-plane/introduction.md",
-              "sourceDirName": "data-streaming-plane",
-              "slug": "/data-streaming-plane/introduction",
-              "permalink": "/docs/data-streaming-plane/introduction",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/data-streaming-plane/introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "title": "Storage and Streaming System",
-                "layout": "page",
-                "Tags": "-Docs -Storage and Streaming System",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Data Mesh Plane",
-                "permalink": "/docs/data-mesh-plane/introduction"
-              },
-              "next": {
-                "title": "Developer Experience Plane",
-                "permalink": "/docs/developer-experience-plane/introduction"
-              }
-            },
-            {
-              "unversionedId": "developer-experience-plane/introduction",
-              "id": "developer-experience-plane/introduction",
+              "unversionedId": "devExperience",
+              "id": "devExperience",
               "title": "Developer Experience Plane",
               "description": "",
-              "source": "@site/docs/developer-experience-plane/introduction.md",
-              "sourceDirName": "developer-experience-plane",
-              "slug": "/developer-experience-plane/introduction",
-              "permalink": "/docs/developer-experience-plane/introduction",
+              "source": "@site/docs/devExperience.md",
+              "sourceDirName": ".",
+              "slug": "/devExperience",
+              "permalink": "/docs/devExperience",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/developer-experience-plane/introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/devExperience.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 5,
               "frontMatter": {
                 "title": "Developer Experience Plane",
                 "layout": "page",
-                "Tags": "-Docs -Data Mesh",
-                "sidebar_position": 1
+                "Tags": "-Docs -Dev Exp",
+                "sidebar_position": 5
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Storage and Streaming System",
-                "permalink": "/docs/data-streaming-plane/introduction"
+                "title": "Super Charged App Templates",
+                "permalink": "/docs/superChargedAppTemplates"
               },
               "next": {
                 "title": "Generative Plane",
-                "permalink": "/docs/generative-plane/introduction"
+                "permalink": "/docs/generativePlane"
               }
             },
             {
-              "unversionedId": "generative-plane/introduction",
-              "id": "generative-plane/introduction",
+              "unversionedId": "generativePlane",
+              "id": "generativePlane",
               "title": "Generative Plane",
               "description": "",
-              "source": "@site/docs/generative-plane/introduction.md",
-              "sourceDirName": "generative-plane",
-              "slug": "/generative-plane/introduction",
-              "permalink": "/docs/generative-plane/introduction",
+              "source": "@site/docs/generativePlane.md",
+              "sourceDirName": ".",
+              "slug": "/generativePlane",
+              "permalink": "/docs/generativePlane",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/generative-plane/introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/generativePlane.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 6,
               "frontMatter": {
                 "title": "Generative Plane",
                 "layout": "page",
-                "Tags": "-Docs -Generative Plane",
-                "sidebar_position": 1
+                "Tags": "-Docs -App templates",
+                "sidebar_position": 6
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Developer Experience Plane",
-                "permalink": "/docs/developer-experience-plane/introduction"
+                "permalink": "/docs/devExperience"
               },
               "next": {
-                "title": "Knowledge Engineering Plane",
-                "permalink": "/docs/knowledge-engineering-plane/introduction"
+                "title": "Data Mesh Plane",
+                "permalink": "/docs/dataMeshPlane"
               }
             },
             {
@@ -163,437 +133,154 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Data Mesh Plane",
-                "permalink": "/docs/data-mesh-plane/introduction"
-              }
-            },
-            {
-              "unversionedId": "knowledge-engineering-plane/introduction",
-              "id": "knowledge-engineering-plane/introduction",
-              "title": "Knowledge Engineering Plane",
-              "description": "",
-              "source": "@site/docs/knowledge-engineering-plane/introduction.md",
-              "sourceDirName": "knowledge-engineering-plane",
-              "slug": "/knowledge-engineering-plane/introduction",
-              "permalink": "/docs/knowledge-engineering-plane/introduction",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledge-engineering-plane/introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "title": "Knowledge Engineering Plane",
-                "layout": "page",
-                "Tags": "-Docs -Knowledge Engineering",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Generative Plane",
-                "permalink": "/docs/generative-plane/introduction"
-              },
-              "next": {
-                "title": "Management Plane",
-                "permalink": "/docs/management-plane/introduction"
-              }
-            },
-            {
-              "unversionedId": "management-plane/introduction",
-              "id": "management-plane/introduction",
-              "title": "Management Plane",
-              "description": "",
-              "source": "@site/docs/management-plane/introduction.md",
-              "sourceDirName": "management-plane",
-              "slug": "/management-plane/introduction",
-              "permalink": "/docs/management-plane/introduction",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/management-plane/introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "title": "Management Plane",
-                "layout": "page",
-                "Tags": "-Docs -Management Plane",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Knowledge Engineering Plane",
-                "permalink": "/docs/knowledge-engineering-plane/introduction"
-              },
-              "next": {
                 "title": "Platform As a Service",
-                "permalink": "/docs/platform-as-a-service/introduction"
+                "permalink": "/docs/platformAsService"
               }
             },
             {
-              "unversionedId": "platform-as-a-service/introduction",
-              "id": "platform-as-a-service/introduction",
-              "title": "Platform As a Service",
+              "unversionedId": "knowledgeEngineering",
+              "id": "knowledgeEngineering",
+              "title": "Knowledge Engineering Templates",
               "description": "",
-              "source": "@site/docs/platform-as-a-service/introduction.md",
-              "sourceDirName": "platform-as-a-service",
-              "slug": "/platform-as-a-service/introduction",
-              "permalink": "/docs/platform-as-a-service/introduction",
+              "source": "@site/docs/knowledgeEngineering.md",
+              "sourceDirName": ".",
+              "slug": "/knowledgeEngineering",
+              "permalink": "/docs/knowledgeEngineering",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/platform-as-a-service/introduction.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/knowledgeEngineering.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 9,
               "frontMatter": {
-                "title": "Platform As a Service",
-                "layout": "page",
-                "Tags": "-Docs -PaaS",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Management Plane",
-                "permalink": "/docs/management-plane/introduction"
-              },
-              "next": {
-                "title": "Super Charged App Templates",
-                "permalink": "/docs/super-charged-app-templates/introduction"
-              }
-            },
-            {
-              "unversionedId": "super-charged-app-templates/introduction",
-              "id": "super-charged-app-templates/introduction",
-              "title": "Super Charged App Templates",
-              "description": "",
-              "source": "@site/docs/super-charged-app-templates/introduction.md",
-              "sourceDirName": "super-charged-app-templates",
-              "slug": "/super-charged-app-templates/introduction",
-              "permalink": "/docs/super-charged-app-templates/introduction",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/super-charged-app-templates/introduction.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "title": "Super Charged App Templates",
+                "title": "Knowledge Engineering Templates",
                 "layout": "page",
                 "Tags": "-Docs -App templates",
-                "sidebar_position": 1
+                "sidebar_position": 9
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Platform As a Service",
-                "permalink": "/docs/platform-as-a-service/introduction"
-              },
-              "next": {
-                "title": "The Infrastructure Plane",
-                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+                "title": "Management Plane",
+                "permalink": "/docs/managementPlane"
               }
             },
             {
-              "unversionedId": "unoplat-datainfra/datainfra-appreloader",
-              "id": "unoplat-datainfra/datainfra-appreloader",
-              "title": "App Management with App Reloader",
+              "unversionedId": "managementPlane",
+              "id": "managementPlane",
+              "title": "Management Plane",
               "description": "",
-              "source": "@site/docs/unoplat-datainfra/appreloader.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-appreloader",
-              "permalink": "/docs/unoplat-datainfra/datainfra-appreloader",
+              "source": "@site/docs/managementPlane.md",
+              "sourceDirName": ".",
+              "slug": "/managementPlane",
+              "permalink": "/docs/managementPlane",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/appreloader.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/managementPlane.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "id": "datainfra-appreloader",
-                "title": "App Management with App Reloader",
-                "sidebar_position": 5
+                "title": "Management Plane",
+                "layout": "page",
+                "Tags": "-Docs -App templates",
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Sealed Secrets with Bitnami",
-                "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets"
+                "title": "Data Mesh Plane",
+                "permalink": "/docs/dataMeshPlane"
               },
               "next": {
-                "title": "Distributed Load Testing with k6 operator",
-                "permalink": "/docs/unoplat-datainfra/datainfra-k6"
+                "title": "Knowledge Engineering Templates",
+                "permalink": "/docs/knowledgeEngineering"
               }
             },
             {
-              "unversionedId": "unoplat-datainfra/datainfra-flinkoperator",
-              "id": "unoplat-datainfra/datainfra-flinkoperator",
-              "title": "The Streaming Infra - Flink k8s operator",
+              "unversionedId": "platformAsService",
+              "id": "platformAsService",
+              "title": "Platform As a Service",
               "description": "",
-              "source": "@site/docs/unoplat-datainfra/flinkoperator.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-flinkoperator",
-              "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator",
+              "source": "@site/docs/platformAsService.md",
+              "sourceDirName": ".",
+              "slug": "/platformAsService",
+              "permalink": "/docs/platformAsService",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/flinkoperator.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "id": "datainfra-flinkoperator",
-                "title": "The Streaming Infra - Flink k8s operator",
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "The Open Source Container Registry - Harbor",
-                "permalink": "/docs/unoplat-datainfra/datainfra-harbor"
-              },
-              "next": {
-                "title": "Reactive Scaling with KEDA",
-                "permalink": "/docs/unoplat-datainfra/datainfra-keda"
-              }
-            },
-            {
-              "unversionedId": "unoplat-datainfra/datainfra-harbor",
-              "id": "unoplat-datainfra/datainfra-harbor",
-              "title": "The Open Source Container Registry - Harbor",
-              "description": "",
-              "source": "@site/docs/unoplat-datainfra/harbor.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-harbor",
-              "permalink": "/docs/unoplat-datainfra/datainfra-harbor",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/harbor.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/platformAsService.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "id": "datainfra-harbor",
-                "title": "The Open Source Container Registry - Harbor",
+                "title": "Platform As a Service",
+                "layout": "page",
+                "Tags": "-Docs -PaaS",
                 "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "The Infrastructure Plane",
-                "permalink": "/docs/unoplat-datainfra/intro-to-datainfra"
+                "title": "Hello Unoplat",
+                "permalink": "/docs/"
               },
               "next": {
-                "title": "The Streaming Infra - Flink k8s operator",
-                "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+                "title": "Storage and Streaming System",
+                "permalink": "/docs/storageAndStreaming"
               }
             },
             {
-              "unversionedId": "unoplat-datainfra/datainfra-k6",
-              "id": "unoplat-datainfra/datainfra-k6",
-              "title": "Distributed Load Testing with k6 operator",
+              "unversionedId": "storageAndStreaming",
+              "id": "storageAndStreaming",
+              "title": "Storage and Streaming System",
               "description": "",
-              "source": "@site/docs/unoplat-datainfra/k6operator.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-k6",
-              "permalink": "/docs/unoplat-datainfra/datainfra-k6",
+              "source": "@site/docs/storageAndStreaming.md",
+              "sourceDirName": ".",
+              "slug": "/storageAndStreaming",
+              "permalink": "/docs/storageAndStreaming",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/k6operator.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "id": "datainfra-k6",
-                "title": "Distributed Load Testing with k6 operator",
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "App Management with App Reloader",
-                "permalink": "/docs/unoplat-datainfra/datainfra-appreloader"
-              },
-              "next": {
-                "title": "The Developer Plane",
-                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
-              }
-            },
-            {
-              "unversionedId": "unoplat-datainfra/datainfra-keda",
-              "id": "unoplat-datainfra/datainfra-keda",
-              "title": "Reactive Scaling with KEDA",
-              "description": "What works at scale may be different from scaling what works.",
-              "source": "@site/docs/unoplat-datainfra/keda.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-keda",
-              "permalink": "/docs/unoplat-datainfra/datainfra-keda",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/keda.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/storageAndStreaming.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "id": "datainfra-keda",
-                "title": "Reactive Scaling with KEDA",
+                "title": "Storage and Streaming System",
+                "layout": "page",
+                "Tags": "-Docs -Storage and Streaming System",
                 "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "The Streaming Infra - Flink k8s operator",
-                "permalink": "/docs/unoplat-datainfra/datainfra-flinkoperator"
+                "title": "Platform As a Service",
+                "permalink": "/docs/platformAsService"
               },
               "next": {
-                "title": "Sealed Secrets with Bitnami",
-                "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets"
+                "title": "Super Charged App Templates",
+                "permalink": "/docs/superChargedAppTemplates"
               }
             },
             {
-              "unversionedId": "unoplat-datainfra/datainfra-sealedsecrets",
-              "id": "unoplat-datainfra/datainfra-sealedsecrets",
-              "title": "Sealed Secrets with Bitnami",
-              "description": "",
-              "source": "@site/docs/unoplat-datainfra/sealedsecret.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/datainfra-sealedsecrets",
-              "permalink": "/docs/unoplat-datainfra/datainfra-sealedsecrets",
+              "unversionedId": "superChargedAppTemplates",
+              "id": "superChargedAppTemplates",
+              "title": "Super Charged App Templates",
+              "description": "The heart of UnoPlat, these templates are designed as foundational building blocks for SaaS creation, enabling users to easily assemble and customize their applications with minimal coding. This feature addresses the common hurdles in SaaS development such as knowledge gaps, lifecycle complexity, and engineering challenges, allowing innovators to focus on their core ideas. By simplifying and accelerating the development process, these templates greatly enhance the probability of success and significantly reduce time to value for SaaS ventures.",
+              "source": "@site/docs/superChargedAppTemplates.md",
+              "sourceDirName": ".",
+              "slug": "/superChargedAppTemplates",
+              "permalink": "/docs/superChargedAppTemplates",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/sealedsecret.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/superChargedAppTemplates.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "id": "datainfra-sealedsecrets",
-                "title": "Sealed Secrets with Bitnami",
+                "title": "Super Charged App Templates",
+                "layout": "page",
+                "Tags": "-Docs -App templates",
                 "sidebar_position": 4
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Reactive Scaling with KEDA",
-                "permalink": "/docs/unoplat-datainfra/datainfra-keda"
+                "title": "Storage and Streaming System",
+                "permalink": "/docs/storageAndStreaming"
               },
               "next": {
-                "title": "App Management with App Reloader",
-                "permalink": "/docs/unoplat-datainfra/datainfra-appreloader"
-              }
-            },
-            {
-              "unversionedId": "unoplat-datainfra/intro-to-datainfra",
-              "id": "unoplat-datainfra/intro-to-datainfra",
-              "title": "The Infrastructure Plane",
-              "description": "The infrastructure plane forms the basis of unoplat. It consists of components which are required for transit, persistence and forms the operational/control plane for the major of the components like flink, prometheus, grafana, k6 etc.",
-              "source": "@site/docs/unoplat-datainfra/infraplane.md",
-              "sourceDirName": "unoplat-datainfra",
-              "slug": "/unoplat-datainfra/intro-to-datainfra",
-              "permalink": "/docs/unoplat-datainfra/intro-to-datainfra",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-datainfra/infraplane.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "id": "intro-to-datainfra",
-                "title": "The Infrastructure Plane",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Super Charged App Templates",
-                "permalink": "/docs/super-charged-app-templates/introduction"
-              },
-              "next": {
-                "title": "The Open Source Container Registry - Harbor",
-                "permalink": "/docs/unoplat-datainfra/datainfra-harbor"
-              }
-            },
-            {
-              "unversionedId": "unoplat-dev-plane/intro-to-developer-plane",
-              "id": "unoplat-dev-plane/intro-to-developer-plane",
-              "title": "The Developer Plane",
-              "description": "To talk about spotify backstage tilt",
-              "source": "@site/docs/unoplat-dev-plane/developerPlane.md",
-              "sourceDirName": "unoplat-dev-plane",
-              "slug": "/unoplat-dev-plane/intro-to-developer-plane",
-              "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-dev-plane/developerPlane.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "id": "intro-to-developer-plane",
-                "title": "The Developer Plane"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Distributed Load Testing with k6 operator",
-                "permalink": "/docs/unoplat-datainfra/datainfra-k6"
-              },
-              "next": {
-                "title": "The Monitoring Plane",
-                "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
-              }
-            },
-            {
-              "unversionedId": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
-              "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability",
-              "title": "The Monitoring Plane",
-              "description": "Application Performance Monitoring is key to any data oriented organization to keep a tap on application health and performance.",
-              "source": "@site/docs/unoplat-monitoring-plane/monitoring.md",
-              "sourceDirName": "unoplat-monitoring-plane",
-              "slug": "/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
-              "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-monitoring-plane/monitoring.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "id": "intro-to-monitoring-and-observability",
-                "title": "The Monitoring Plane"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "The Developer Plane",
-                "permalink": "/docs/unoplat-dev-plane/intro-to-developer-plane"
-              },
-              "next": {
-                "title": "The Network and Policy Plane",
-                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
-              }
-            },
-            {
-              "unversionedId": "unoplat-network-and-policy-plane/intro-to-consul",
-              "id": "unoplat-network-and-policy-plane/intro-to-consul",
-              "title": "Service Mesh with Consul",
-              "description": "",
-              "source": "@site/docs/unoplat-network-and-policy-plane/consul.md",
-              "sourceDirName": "unoplat-network-and-policy-plane",
-              "slug": "/unoplat-network-and-policy-plane/intro-to-consul",
-              "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-consul",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-network-and-policy-plane/consul.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "id": "intro-to-consul",
-                "title": "Service Mesh with Consul"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "The Network and Policy Plane",
-                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra"
-              }
-            },
-            {
-              "unversionedId": "unoplat-network-and-policy-plane/intro-to-datainfra",
-              "id": "unoplat-network-and-policy-plane/intro-to-datainfra",
-              "title": "The Network and Policy Plane",
-              "description": "",
-              "source": "@site/docs/unoplat-network-and-policy-plane/network.md",
-              "sourceDirName": "unoplat-network-and-policy-plane",
-              "slug": "/unoplat-network-and-policy-plane/intro-to-datainfra",
-              "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-datainfra",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/unoplat-network-and-policy-plane/network.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "id": "intro-to-datainfra",
-                "title": "The Network and Policy Plane",
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "The Monitoring Plane",
-                "permalink": "/docs/unoplat-monitoring-plane/intro-to-monitoring-and-observability"
-              },
-              "next": {
-                "title": "Service Mesh with Consul",
-                "permalink": "/docs/unoplat-network-and-policy-plane/intro-to-consul"
+                "title": "Developer Experience Plane",
+                "permalink": "/docs/devExperience"
               }
             }
           ],
@@ -605,176 +292,36 @@
                 "id": "introduction"
               },
               {
-                "type": "category",
-                "label": "data-mesh-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "data-mesh-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "platformAsService"
               },
               {
-                "type": "category",
-                "label": "data-streaming-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "data-streaming-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "storageAndStreaming"
               },
               {
-                "type": "category",
-                "label": "developer-experience-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "developer-experience-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "superChargedAppTemplates"
               },
               {
-                "type": "category",
-                "label": "generative-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "generative-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "devExperience"
               },
               {
-                "type": "category",
-                "label": "knowledge-engineering-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "knowledge-engineering-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "generativePlane"
               },
               {
-                "type": "category",
-                "label": "management-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "management-plane/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "dataMeshPlane"
               },
               {
-                "type": "category",
-                "label": "platform-as-a-service",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "platform-as-a-service/introduction"
-                  }
-                ]
+                "type": "doc",
+                "id": "managementPlane"
               },
               {
-                "type": "category",
-                "label": "super-charged-app-templates",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "super-charged-app-templates/introduction"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "unoplat-datainfra",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/intro-to-datainfra"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-harbor"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-flinkoperator"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-keda"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-sealedsecrets"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-appreloader"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-datainfra/datainfra-k6"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "unoplat-dev-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "unoplat-dev-plane/intro-to-developer-plane"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "unoplat-monitoring-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "unoplat-monitoring-plane/intro-to-monitoring-and-observability"
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "unoplat-network-and-policy-plane",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "unoplat-network-and-policy-plane/intro-to-datainfra"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "unoplat-network-and-policy-plane/intro-to-consul"
-                  }
-                ]
+                "type": "doc",
+                "id": "knowledgeEngineering"
               }
             ]
           }
