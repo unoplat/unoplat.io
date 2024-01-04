@@ -6,13 +6,13 @@ const planes =[
     {
         Svg: require('@site/static/img/PaaS.svg').default,
         title: 'Platform As A Service',
-        hoverText: 'The onmouseover event is similar to the onmouseenter event. The difference is that the onmouseenter event does not bubble (does not propagate up the document hierarchy). See "More Examples" at the bottom of this page to better understand the differences.',
+        hoverText: 'UnoPlats Platform as a Service (PaaS) offering integrates advanced tools for development, deployment, and management, streamlining the SaaS creation process with features like CI/CD automation, container orchestration, and DevSecOps.',
         followUpLink:'/docs/platformAsService'
     },
     {
         Svg: require('@site/static/img/StorageAndStreaming.svg').default,
         title: 'Storage and Streaming Systems',
-        hoverText: 'Random Text',
+        hoverText: 'These systems in UnoPlat eliminate the complexity and steep learning curve typically associated with storage and streaming technologies.',
         followUpLink:'/docs/storageAndStreaming'
     },
     {
@@ -25,37 +25,35 @@ const planes =[
     {
         Svg: require('@site/static/img/DeveloperExperience.svg').default,
         title: 'Developer Experience Plane',
-        hoverText: 'Random Text',
+        hoverText: 'UnoPlat Developer Experience: The Developer Experience in UnoPlat is designed to emulate the cohesive and sophisticated environment typically found in large enterprises, where dedicated teams create a seamless production-like experience.',
         followUpLink:'/docs/devExperience'
     },
     {
         Svg: require('@site/static/img/GenerativePlane.svg').default,
         title: 'Generative Plane',
-        hoverText: 'Random Text',
+        hoverText: 'Exciting Stuff Coming Soon',
         followUpLink:'/docs/generativePlane'
     },
     {
         Svg: require('@site/static/img/DataMesh.svg').default,
         title: 'Data Mesh',
-        hoverText: 'Random Text',
+        hoverText: 'UnoPlat simplifies the creation and management of a DataMesh, decentralizing and democratizing data across the application. It allows innovators to seamlessly access and integrate transactional and analytical data within their app templates, without delving into the intricacies of data infrastructure.',
         followUpLink:'/docs/dataMeshPlane'
     },
     {
         Svg: require('@site/static/img/ManagementPlane.svg').default,
         title: 'Management Plane',
-        hoverText: 'Random Text',
+        hoverText: 'The Management Plane, centered around the UnoPlat CLI (Command Line Interface), is designed to provide SaaS builders with a unified and simplified control mechanism for their projects.',
         followUpLink:'/docs/managementPlane'
     },
     {
         Svg: require('@site/static/img/KnowledgeEngineering.svg').default,
         title: 'Knowledge Engineering Templates',
-        hoverText: 'Random Text',
+        hoverText: 'UnoPlats Knowledge Engineering involves integrating domain expertise and data into the platform, thereby enhancing its capabilities for informed decision-making and process automation',
         followUpLink:'/docs/knowledgeEngineering'
     }
    
 ];
-
-
 
 function setHoverText(text) {
     // Code logic to set the hover text

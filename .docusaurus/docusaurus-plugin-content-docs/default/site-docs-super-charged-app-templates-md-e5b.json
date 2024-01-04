@@ -2,7 +2,7 @@
   "unversionedId": "superChargedAppTemplates",
   "id": "superChargedAppTemplates",
   "title": "Super Charged App Templates",
-  "description": "The heart of UnoPlat, these templates are designed as foundational building blocks for SaaS creation, enabling users to easily assemble and customize their applications with minimal coding. This feature addresses the common hurdles in SaaS development such as knowledge gaps, lifecycle complexity, and engineering challenges, allowing innovators to focus on their core ideas. By simplifying and accelerating the development process, these templates greatly enhance the probability of success and significantly reduce time to value for SaaS ventures.",
+  "description": "The heart of UnoPlat, these templates are designed as foundational building blocks for SaaS creation, enabling users to easily assemble and customize their applications with minimal coding. This feature addresses the common hurdles in SaaS development such as knowledge gaps, lifecycle complexity, and engineering challenges, allowing innovators to focus on their core ideas. By simplifying and accelerating the development process, these templates greatly enhance the probability of success and significantly reduce time to value for SaaS ventures",
   "source": "@site/docs/superChargedAppTemplates.md",
   "sourceDirName": ".",
   "slug": "/superChargedAppTemplates",

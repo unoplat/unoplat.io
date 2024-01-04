@@ -2,7 +2,7 @@
   "unversionedId": "platformAsService",
   "id": "platformAsService",
   "title": "Platform As a Service",
-  "description": "",
+  "description": "Platform Plane",
   "source": "@site/docs/platformAsService.md",
   "sourceDirName": ".",
   "slug": "/platformAsService",

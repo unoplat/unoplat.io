@@ -36,19 +36,13 @@ At a high level, UnoPlat is a data platform that offers:
 
 - Federated computational governance: Our platform facilitates interoperability between independent data products while respecting domain autonomy. UnoPlat's governance model supports adherence to global standards and ensures a healthy, interconnected data ecosystem.
 
-
+<!-- 
 ## Our Architecture
 Unoplat has one goal, to enable data ecosystem for businesses by addressing their data needs in a flexible, scalable, and collaborative way. We offer a unified Platform as a Product. It solves majority of cross cutting concerns by offering solutions in mutiple planes. 
 A high level view of platform's composition is mentioned below:
 
-![plane segregration diagram](/img/planeleveldiagram.png)
+![plane segregration diagram](/img/planeleveldiagram.png) -->
 
-The infrastruture plane address the infrastructure concerns like kubernetes cluster provisioning, storage provisioning, message broker setup and so on
-
-The network and policy plane address the concerns like authentication, authorization and networking for all applications and infrastructure components
-'
-
-##
 
 
 
