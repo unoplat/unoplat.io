@@ -49,7 +49,7 @@ export default function Home() {
       <main>
       <TheProblemCard/>
       <Hexagon/>
-      <HowItWorks/>
+      {/* <HowItWorks/> */}
       </main>
     </Layout>
   );
