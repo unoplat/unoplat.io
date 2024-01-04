@@ -1,5 +1,74 @@
 {
   "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "dataMeshPlane",
+              "path": "/docs/dataMeshPlane",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "devExperience",
+              "path": "/docs/devExperience",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "generativePlane",
+              "path": "/docs/generativePlane",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "knowledgeEngineering",
+              "path": "/docs/knowledgeEngineering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "managementPlane",
+              "path": "/docs/managementPlane",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "platformAsService",
+              "path": "/docs/platformAsService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "storageAndStreaming",
+              "path": "/docs/storageAndStreaming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "superChargedAppTemplates",
+              "path": "/docs/superChargedAppTemplates",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
     "installation": {
       "path": "/installation",
       "versions": [
@@ -80,75 +149,6 @@
               "link": {
                 "path": "/aboutus/",
                 "label": "aboutus"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
-    "default": {
-      "path": "/docs",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/docs",
-          "mainDocId": "introduction",
-          "docs": [
-            {
-              "id": "dataMeshPlane",
-              "path": "/docs/dataMeshPlane",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "devExperience",
-              "path": "/docs/devExperience",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "generativePlane",
-              "path": "/docs/generativePlane",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "introduction",
-              "path": "/docs/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "knowledgeEngineering",
-              "path": "/docs/knowledgeEngineering",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "managementPlane",
-              "path": "/docs/managementPlane",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "platformAsService",
-              "path": "/docs/platformAsService",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "storageAndStreaming",
-              "path": "/docs/storageAndStreaming",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "superChargedAppTemplates",
-              "path": "/docs/superChargedAppTemplates",
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "tutorialSidebar": {
-              "link": {
-                "path": "/docs/",
-                "label": "introduction"
               }
             }
           }
