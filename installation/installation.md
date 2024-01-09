@@ -55,8 +55,7 @@ brew install jq
 fig run deploy-unoplat-playground
 ```
 
- and witness the deployment of UnoPlat
-
+**Note**: Fig is no longer accepting signups. We are in the process of moving unoplat playground to UnoPlat CLI. Stay tuned for further updates. For that reason, Fig based playground will not support any updates/fixes.
 
  **Happy Platforming ~ Team UnoPlat**
 
